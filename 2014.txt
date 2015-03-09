@@ -1,0 +1,1224 @@
+1.          AMAÇ											
+1.1        Bu şartnamenin amacı, Ankara TRT Sitesi Devamlılık binasında bulunan mevcut 3 adet Devamlılık Masası ve bunların bağlı olduğu Sony Matriks Sisteminin yenilenmesi, 1 adet yedek HD Devamlılık Sistemi Kurulması, Eurovision Bağlantı Merkezinin Devamlılık binasına kurulması ve Anakumanda Merkezi kontrol odasının yenilenmesi işinin; ses, video ve montaj malzemesinin temini ve montajı ile eğitimini içeren alımın tanımını ve teknik özelliklerini belirlemektir.											
+2.          GENEL ŞARTLAR											
+2.1        Sistemin projelendirilmesi cihazların temini ve montajı anahtar teslimi şeklinde olacaktır. Sistemin rak içi, dışı ve diğer tüm kablolaması (resim, ses, kontrol, enerji vs. gibi), mevcut teçhizat ile entegrasyonu, eğitimi ve sistemin teknik şartnamede bahsi geçen ilgili standartlara uygun çalışır halde İdareye teslimi yüklenici tarafından sağlanacaktır.											
+2.2        Sistemin taslak projeleri ekte sunulmakta ve iş akışı teknik şartnamede tanımlanmaktadır. Buna göre nihai uygulama projesi (rak yerleşim planları, cihaz kasası yerleşim planları video, ses, kontrol ve gerekiyorsa ağ şemaları, vs.) ve tüm cihaz yerleşim planlarını içeren (rak, cihaz konsolu, monitör rafı, vb) projeler yüklenici tarafından sağlanacaktır.											
+2.3        Yüklenici projesine göre sistemin çalışması için her türlü teçhizat ve malzemeyi sağlayacaktır. Teknik											
+şartnamede verilen değerler minimum değerler olup, sistemin tam performans çalışması için daha											
+üstün özellikli cihazlar teklif edilebilecektir.											
+2.4        Montaj  aşamasında,  bu  şartnamede  teknik  özelliği  tanımlanmayan  fakat  sistemin  çalışması  için kullanılacak teçhizat ve montaj malzemesi İdare’nin onayı alındıktan sonra yüklenici tarafından kullanılabilecektir. Sistemin çalışması için, firma teklifinde yer almayan her türlü teçhizat montaj aşamasında yüklenici tarafından ücretsiz olarak sağlanacaktır.											
+2.5        İdare, ilgili sistem alanlarının soğutulmasını sağlamak üzere klimaları temin edecek ve tüm sistemin ana enerji gereksinimini karşılayacaktır. Enerji panosundan itibaren sistem içerisinde kullanılacak olan tüm enerji kablolamaları firma tarafından yapılacaktır.											
+2.6        İdare’nin  ilgili  personeli,  teklif  verme  aşamasında  tüm  firmalarla  ve  sözleşme  aşamasında  ihaleyi kazanan yüklenici ile birlikte, ilgili sistem alanlarını gezerek, sistemin kurulacağı alanlarla, genel iş akışı, yapılması istenilen değişikler vs. ile ilgili bilgi verecektir. Bu aşama ile teklif veren firmaların ve ihale sonrası ihaleyi kazanan yüklenicinin tüm gerekleri anladığı kabul edilecektir.											
+2.7        Temel cihazlar için (Devamlılık Masası, Video Matriksi, Ses matriksi, Voice Over ve Audio Processor											
+Ünitesi,  vs.)  işletme,  kurulum,  tamir-bakım  kitapları  ve  eğer  var  ise  diğer  teknik  şemalar,  teknik dokümanlar (güç kaynakları dahil) sağlanacaktır											
+2.8        Tüm  cihaz  kasaları  ve  kontrol  panelleri  aksi  belirtilmedikçe  19”  raklara  yerleştirileceğinden,  19”											
+boyutunda olacak ve gerekli rak montaj kitleri sağlanacaktır.											
+2.9        Her rakta 2 adet 10 çıkışlı MDU (Main distribution unit) bulunacaktır.											
+2.10      İlgili bölümde aksi belirtilmedikçe Video giriş/çıkış konnektörleri BNC tipte olacaktır.											
+2.11     Cihazlarla birlikte teklif edilen tüm yazılımlar lisanslı olacak ve orijinal disketlerde veya CD’de sağlanacaktır. Yazılımlar garanti süresince ücretsiz olarak güncellenecektir.											
+2.12      İhale değerlendirilmesinde kullanılmak üzere tüm cihazlara ait teknik dokümanlar ve broşürler teklifin eki olarak sağlanacaktır.											
+2.13     Teklif edilen cihazlar için gerekli standart aksesuarlar, özel arabirimleri, yazılım, kablo ve konnektör sağlanacaktır.											
+kaynağı ile birlikte teklif edilecektir.											
+2.15      Sistemde bulunan video matriksi, Multiformat Audio Router, Voice Over ve Audio Processor Ünitesi, VDA ve kart tipi teçhizatın SNMP ya da benzer protokollerle uzaktan erişimi, ayarlarının yapılması mümkün olacak ve bunun için gerekli yazılım sağlanacaktır. Sistemde kullanılacak yazılım uygulamaları için toplam 4 adet rak tipi sistem bilgisayarı (3 adet EBM ve 1 adet Anakumanda cihaz odası olmak											
+üzere) yüklenici tarafından sağlanacak, cihaz odalarında sürgülü bir mekanizma ile montajı yüklenici tarafından yapılacaktır.											
+2.16      Sistemde Ethernet bağlantısı gerektirecek tüm donanım için yeterli sayıda portu olan rak tipi gigabit Ethernet network switch yedekli olarak yüklenici tarafından sağlanacak ve tüm ağ kablolaması yapılacaktır.											
+2.17      Garanti ile ilgili hükümler idari şartname ve sözleşme maddelerine göre yerine getirilecektir.											
+3.          SİSTEM STANDARTLARI											
+3.1        Cihazlar 200-240 V AC ve 50 ±5 % Hz mono-faz şehir şebekesinde çalışacaktır.											
+3.2        İlgili bölümde aksi belirtilmedikçe cihazlar 10°C - 35°C sıcaklık aralığı ve 30% -70% bağıl nem aralığında, teknik karakteristiklerinde herhangi bir problem olmaksızın çalışacaktır.											
+3.3        Cihazların tüm ana besleme fişleri IEC (Avrupa) tipte olacaktır.											
+3.4        Cihazların yapımında kullanılacak olan bileşenler ve malzemeler uluslararası standartlara ve sürekli											
+çalışmaya uygun olacaktır.											
+3.5        İlgili bölümde aksi belirtilmedikçe video cihazlarının tamamı 4:3/16:9 çalışmaya uygun olacaktır. Teklif edilen cihazların HD SDI video giriş ve çıkışları SMPTE 424M (3 Gbit), SMPTE 292M (1,5 Gbit) HD-SDI arayüz standardına uygun olacak ve aşağıdaki özellikleri sağlayacaktır.											
+3.6        Sistemde  teklif  edilen  cihazların  SD  SDI  giriş  ve  çıkışları  SMPTE  259M-C  (270Mbit)  standardında olacaktır.											
+3.7        İlgili bölümde aksi belirtilmedikçe teklif edilen HD teçhizat SMPTE 274M ve SMPTE 296M ile SMPTE											
+272M ve SMPTE 299M standartlarına göre 1080p, 1080i ve 720p 50 Hz’e uygun olarak anahtarlanabilir											
+şekilde çalışabileceklerdir.											
+3.8        Resim monitörleri ITU-R, IEC, EBU ve ISO standartlarına uygun olacaktır.											
+3.9        Sistemde sayısal ses sinyali 24bit, 48kHz, AES/EBU standardında kullanılacaktır.											
+3.10      Sistemde kullanılacak cihazların sayısal ses giriş/çıkışları AES3, 110Ω, dengeli (balanced) veya AES3-id,											
+75Ω, dengesiz (unbalanced) olabilecektir. Cihazların giriş/çıkışları için her iki standardın da kullanılması											
+durumunda gerekli dönüştürücüler yüklenici firma tarafından sağlanıp, kullanılacaktır.											
+3.11      Sistemde kullanılacak cihazların analog ses giriş/çıkışları dengeli (balanced) tipte olacaktır.											
+3.12      Sistemde ses sinyalleri mono analog, stereo analog, AES/EBU standardında stereo (L/R), 5.1 surround (L/R,C/LFE,Ls/Rs  ve  Lt/Rt)  PCM,  7.1  surround  (L/R,C/LFE,Ls/Rs,  LBs/RBs),  Dolby  E  (stereo  ve  5.1 surround veya 7.1 surround) formatlarında ve toplam 16 kanal ses sinyali SDI video sinyal içine embed edilmiş olarak kullanılabilecektir.											
+3.13      Sistemdeki cihaz bağlantıları için gerekli ise; sayısal/analog ses ve/veya analog/sayısal ses çeviricileri kullanılabilecektir, bu çeviriciler teknik şartnamenin ilgili maddesindeki teknik özellikleri sağlayacaktır ve sistem şemasında gösterilecektir.											
+3.14      Kurulacak ses sistemde video referans girişi bulunan teçhizat TRT Ana Kumanda Merkezindeki mevcut referans çıkışından alınacak tek bir referans sinyalinden (video sync) tetiklenecek şekilde referans											
+sinyali dağılımı yapılacaktır. Bunun için gerekli dağıtıcılar, bağlantılar, ilave teçhizat yüklenici tarafından											
+sağlanacaktır.											
+3.15     Kurulacak ses sisteminde Digital Audio Referans Sinyali-DARS ve world clock ses referans bağlantısı gereken cihazlar için teklif edilen DARS referans jeneratörü ve dağıtıcı sistemi kullanılacaktır ve DARS jeneratörü referans girişi mevcut video referans ile tetiklenecektir.											
+3.16     Sistemde  referans gerektiren  her  bir  cihaz  ayrı  referans  sinyaliyle  beslenecek olup,  loop yapılmayacaktır.											
+3.17      Sistemin sorunsuz çalışması için gerekli timing, equalising, reclocking ve lip-sync vb. ayarlar yapılmış											
+olarak teslim edilecektir.											
+3.18      Sistemin ses sistem ve referans dağılım şemaları, rak yerleşim, kontrol odası cihaz yerleşim çizimleri yüklenici tarafından çizilerek son hali ile idareye hem elektronik ortamda hem de basılı olarak teslim edilecektir.											
+4.          SİSTEM TANIMI VE AKIŞI											
+4.1        Teklif edilecek sistem HD 1920x1080p 50, 1920x1080i 50, 1280x720p 50, SD 720x576i 50 formatlarını destekleyecek şekilde kurulacaktlr. Teklif edilecek tüm video teçhizatl aksi belirtilmedikçe yukarıda bahsedilen formatlarda çalışabilecektir.											
+4.2        Kullanılacak olan montaj malzemeleri (Video kablosu, konnektörler, patch paneller, sonlandırıcılar ve CTP’ler) sistemdeki HD-SDI sinyalini sorunsuz şekilde taşıyabilecek nitelikte olmalıdır. (SMPTE 424M HD SDI arayüzü standardına uygun olup, 3Gbit/s video sinyalini taşıyabilecektir.)											
+4.3        Bu  şartnamenin  konusu  olan  iş  3  adet  (TRT  ANADOLU,  TRT  OKUL,  TRT  ARAPÇA  )  Devamlılık Stüdyosunun yenilenmesi, bir adet yedek HD Devamlılık stüdyosu kurulması, bir adet Eurovision Bağlantı Merkezi ve Anakumanda Merkezi Kontrol Odası kurulması işidir.											
+4.4        Mevcut durumunda TRT ANADOLU, TRT OKUL, TRT ARAPÇA kanalları Sony Matriks Sistemini ve Sony Devamlılık masalarını kullanarak yayına çıkmaktadırlar. Bu sistem alımı kapsamında Sony Matriks Sisteminin tamamı değiştirilecektir.											
+4.5        Mevcut Sistemde 288x288’lik bir adet Evertz EQX Video Matriks bulunmakta ve TRT3, TRT6, TRT AVAZ											
+ve TRT1 kanalları bu matriks üzerinden yayına çıkmaktadırlar.											
+4.6        Yeni  kurulacak  sistem  tamamlandığında  Sony  Video  Matriksi  ve  Devamlılık  masalaları  devre  dışı											
+bırakılacak ve üzerinden devam eden yayınlar yeni sistemden yapılıbiliyor olacaktır.											
+4.7        Yedek reji odası TRT sitesi Devamlılık binasının -2 katında bulunmaktadır. S 221B numaralı oda olup, boş durumdadır.											
+4.8        Mevcut yayınların kesintisiz bir şekilde devamı için aşamalı bir montaj planı yürütülecektir. Bu plana göre öncelikle boş olan TRT Sitesi -2 katındaki S 221B numaralı odaya yeni bir Devamlılık stüdyosu kurulacaktır. Bu stüdyo/reji kurulduktan sonra TRT ANADOLU, TRT OKUL ya da TRT ARAPÇA yayınlarından biri bu stüdyoya aktarılacaktır. Bir sonraki aşamada aktarılan yayın kanalının olduğu reji boşaltılarak yeni bir Devamlılık Stüdyosu kurulacaktır. Bu işlem toplam 4 adet yeni Devamlılık rejisinin kurulup yayınların aktarılmasına kadar devam edecektir.											
+4.9        TRT ANADOLU, TRT OKUL ve TRT ARAPÇA Devamllılık rejileri TRT sitesi Devamlılık binasının -2 katında bulunan S 207, S 206, S 203 odalara konuşlandırılmıştır. Yeni kurulacak rejiler yine bu mekanlara aşamalı  bir  şekilde  aktarılarak  kurulacaktır.  S221B  odaya  kurulan  ilk  reji  ise  yedek  reji  olarak atanacaktır.											
+4.10      Devamlılık rejilerinin yenilenmesi sırasında mevcut TRT ANADOLU, TRT OKUL, TRT ARAPÇA yayınları da devam edeceğinden montaj sırayla ve aşamalı olarak yapılacaktır. Yayınlar ancak birer birer Sony											
+Matriksden yeni Matriks sistemine kaydırılacaktır. Bu işlem sırasında mevcut iş akışı bozulmayacak,											
+yayında aksamaya sebebiyet verilmeyecektir.											
+4.11      TRT sitesi Devamlılık binasının -2 katındaki S 219 numaralı oda boştur. Anakumanda Merkezi Kontrol odası halihazırda TRT sitesi Devamlılık binasının -2 katındaki S 212 numaralı odadır. Ancak bu mekan Anakumanda Kontrol odası olarak kullanılmaya devam ederken boş olan S219 numaralı odaya yeni Anakumanda Kontrol odası kurulacak ve gerekli aktarmalar yapıldıktan sonra S212 numaralı oda boşaltılacaktır. S 212 numaralı oda boşlatıldıktan sonra, bu mekana Eurovision Merkezi Kontrol odası kurulacaktır.											
+4.12      Kurulacak Devamlılık stüdyoları için TRT Sitesi -2 katındaki S 210 numaralı cihaz odası ve Eurovision Merkezi ses teçhizatı için TRT Sitesi -2 katındaki S 211 numaralı cihaz odası kullanılacaktır. Dolayısıyla sistemle ilgili tüm raklar S 210 ve S 211 numaralı cihaz odalarına yerleştirilecektir.											
+4.13      TRT Sitesi -2 katındaki S 211 numaralı cihaz odası iki bölümden oluşmaktadır. Sony Matriks sistemi ilk bölümde yer almaktadır.											
+4.14      VTR ve ingest odası TRT sitesi Devamlılık binasının -2 katında S 216 numaralı odadır.											
+4.15      Mevcut ve yeni stüdyoların/rejilerin yer değiştirmeleri ve yayınların aktarılması sırasında doğabilecek her türlü sıkıntıya karşı gerekli tedbirler alınmalıdır.											
+4.16      TRT, yukarıda belirtilen montaj planında değişiklik yapma hakkını saklı tutar.											
+4.17      Mevcut durumda STDA, STDB ve GAP kaynak gelişlerinin sesleri ve videosu Analog’tur. Dolayısla bu gelişler Analog ses girişli PAL\SDI dönüştürücüden geçirilerek SDI embedded hale çevrilip senkronlanarak Evertz sistemi video dağıtım yükselteçlerine girilecektir. Daha sonra ilgili VDA çıkışı alınarak yeni matriks sistemine bağlanacaktır.											
+4.18      Ayrıca  Eski  Haber  Merkezinden  ve  mevcut  Eurovision  Merkezinden  gelen  4’er  hattında  sesleri Analog’tur. Kaynaklar hali hazırda S211 numaralı odada raklara taşınmış durumdadır. Bu hatlarda da Analog sesler Analog\AES çevirici kullanılarak sayısala dönüştürülecek ve frame senkronlayıcıda video ile ses birleştirilecek (embed edilecek) ve senkronlanarak Evertz sistemi video dağıtım yükselteçlerine girilecektir. Daha sonra ilgili VDA çıkışı alınarak yeni matriks sistemine bağlanacaktır.											
+4.19      Ayrıca Eski Haber Merkezinden 5. Geliş için bir adet frame senkronlayıcı sağlanacak ve bu senkronlayıcı											
+çıkışı mevcut vda’ya taşınacaktır. İlgili vda’nın boş olan çıkışlarında biri yeni video matriks sistemine bağlanacaktır.											
+4.20      Yenilenecek olan ARI Stüdyolarından gelecek dört adet fiber çıkış TRT tarafından sağlanacaktır. Bu											
+çıkışların   hepsi   bu   sistem   kapsamında   alınacak   olan   frame   senkronlayıcılardan   geçirilerek											
+senkronlanacak ve tamamı VDA’lardan geçirilecektir. VDA çıkışları ile yeni video matriks, mevcut Evertz Matriks, sony matriks (geçiş süresi içinde gerekli olması ihtimaline binaen) ile bağlantı yapılacak ve VDA’ların birer adet çıkışları ctp’de ve jackta sonlandırılacaktır.											
+4.21      TRT sitesi -2 katındaki S210 numaralı cihaz odasında 288X288 giriş/çıkış kapasiteli Evertz EQX Video											
+Matriks Sistemi (tüm cihazları, kartları, vs. ) bulunmaktadır.											
+4.22      Hali hazırda Anakumanda Merkezinde okuyucu kullanılan 13 adet VTR (SD ve HD SDI giriş/çıkışlı) vardır. Bunlar VTR/Ingest odasında konuşlandırılmışlardır. Bu VTR’lerin çıkışları Evertz sistemi içindeki dağıtım  yükselteçlerine  taşınmıştır.  İlgili  13  VDA’dan  alınacak  olan  birer  çıkış  yeni  alınacak  video matriks sistemine bağlanacaktır.											
+4.23      TRT Arapça kanalında kullanılan 3 adet VTR ( VTR14, VTR15, VTR16) içinse bu sistem kapsamında VDA											
+alınarak Mevcut EQX Matrikse, Sony Matrikse ve Yeni alınacak matrikse bağlanacaktır.											
+4.24      Kaynak olarak kullanılan 18 adet SNG mevcut Evertz VDA’larda çoğaltılmış durumdadır. İlgili vda’ların											
+çıkışları alınarak yeni video matrikse bağlantı yapılacaktır.											
+alınarak yeni video matrikse sistemine bağlanacaktır.											
+4.26     Mevcut durumda Sony matrkis sistemine girilen 4 adet TRT TURK gelişinin iki tanesi önce frame senkronlayıcıdan  geçirilecek,  sonrada   tamamı   bu   sistem   kapsamında  alınacak  olan  VDA’larda											
+çoğlatılarak yeni alınacak video matrikse, Evertz EQX matrikse ve geçici sürede kullanılacak da olsa											
+Sony Matriks sistemine kaynak olarak girilecektir.											
+4.27      Video taslak çizimde görülen ve Evertz VDA’larda çoğaltılmış durumdaki diğer kaynaklar da (103 adet)											
+yeni alınacak video matriks sistemine bağlanacaktır.											
+4.28     Sistem video çiziminde görüleceği üzere 12 adet Eurovision IRD hattı VDA’dan geçirilerek sisteme bağlanırken, mevcut 10 adet HD IRD ise Dolby E frame senkronlayıcılardan geçirilecek ve bu sistem kapsamında alınacak VDA’lar ile çoğaltılarak mevcut Evertz Matrikse, yeni alınacak video matrikse bağlanacaktır.											
+4.29      Ayrıca ilereide gelmesi muhtemel HD IRD’ler için 3 adet yedek hat da planlanmış olup, bu hatlarda gelecek HD IRD’ler için Dolby E frame senkronlayıcı ve VDA düşünülmüştür.											
+4.30      Dolby E frame senkronlayıcılar Eurovision cihaz odasına konulacağından, bu kartlar için ayrı kasa teklif edilecektir.											
+4.31     Ayrıca Eurovision Kontrol Merkezi Multiviewer sistemi için 22 adet IRD çıkışı multiviewer sistemine gönderilecektir.											
+4.32     KAE stüdyosundan gelen 16 fiber hattın iki tanesi frame senkronlayıcıdan geçirilecek ve tamamı VDA’lardan geçirilerek çoğaltılacak ve yeni matriks sistemine ile Evertz sistemine girilecektir.											
+4.33      TRT  ARIM’de  konuşlandırılan  TRT  HABER  kanalından  (bu  rejinin  daha  sonra  TRT  SPOR  olarak kullanılması  fündemdedir)  anakumanda  sistemine  8  geliş  planlanmıştır.  Bunun  iki  tanesi senkronlanarak ve tamamı ise VDA çoğaltarak sisteme girilecektir.											
+4.34      2 adet okuyucu cihaz çıkışı ve video server uçları video matrikse bağlanacaktır.											
+4.35      16 adet V/O ünitelesinin HD SDI girişine video matriksin çıkışları ve ses girişlerine AES Router çıkışları											
+bağlanacaktır.											
+4.36      V/O ünitesinin çıkışları VDA ile çoğaltılıp Evertz EQX matrikse, yeni Matrikse, Eurovision Kontrol odası											
+teknik monitörlemeye ve rak tipi hoparlör ünitesine gönderilecektir.											
+4.37      Video matriks çıkışlarından 8 adedi TRT Haber binasındaki off tube stüdyoları için de-embedderlardan geçirilerek sesleri Commantator Sistemi ana ünitesine ve videosu ise fiber ile Haber binasına gönderilecektir. Fiber bağlantı TRT tarafından yapılandırılacaktır.											
+4.38      Video Matrikse dinamik kullanmak amacıyla Eurovision Merkezinin kullanımı için iki adet De-embedder bağlanacaktır.											
+4.39    Toplamda 10 adet de-embedder için ayrı kasa verilecek olup, bunlar S211 cihaz odasına konuşlandırılacaklardır.											
+4.40      TRT ARIM’deki Haber Rejisi için video matriksden 46 hat, KAE Stüdyosu için 38 hat, Arı Stüdyosu için 6 hat, TRT TURK için 22 hat ve Haber Binası Video Server odası için 24 hat planlanmıştır.											
+4.41      Sistemde dinamik kullanımlar için 6 adet frame senkronlayıcı/up/down çevirici bulunacaktır. Bunlar video matriksin giriş ve çıkışlarına bağlanacaktır.											
+4.42      Video matriksin 8 adedi çıkışı EBU gidiş için kullanılacaktır. Bu hattın iki tanesine UP/DOWN çevirici konulmuştur.											
+4.43      EBU’ya gidişlerin (8 adet) her biri seçilirken otomatikman video matriksinden paralel çıkışlar Eurovision											
+kontrol odası multiviewer sistemine gönderilecektir (Video matriks kontrol paneliyle tek seçimle yapılacaktır.)											
+4.44      Yeni  alınacak  Video  matriks  sisteminin  20  adet  çıkışı  Evertz  matriks  sistemine  gönderilecektir.											
+Böylelikle TRT’deki tüm kanalların heran her türlü kaynağa erişip kullanması ve kanallar arası yönlendirme yapılabilecek şekilde yapılandırılacaktır.  Dolayısıyla tek bir kanal yayına çıkacak dahi olsa tüm kaynaklara erişim mümkün olacaktır.											
+4.45      Sistemde bulunan 2 adet frame rate çevirici video matriks giriş ve çıkışlarına bağlanacaktır.											
+4.46      Eurovision Merkezi Multiviewer sistemi için 23 adet video matriks çıkışı planlanmıştır.											
+4.47      Kurulacak 4 adet Devamlılık Masası montajı video şemada gösterildiği şekilde yapılacaktır.											
+4.48      Devamlılık Masalarının PGM, PST, KEY girişleri video matriks çıkışlarına bağlanacaktır.											
+4.49      Dört reji için her bir Alt yazı cihazı Main çıkışı VDA ile çoğaltılarak Devamlılık masası fill girişine ve video matrikse gönderilecektir. Alt yazı cihazı Key çıkışı ise Devamlılılık masası Key girişine bağlanacaktır.											
+4.50      Dört reji için her bir Kroma Key cihazının BG girişi video matrikse bağlanacaktır. Her bir reji için birer adet de-embedder kullanılacak olup, bunlar video matriksin çıkışına bağlanacaktır. De-embedder’ın bir adet AES çıkışı Devamlılık masası V/O girişine (ya da AES girişine) ve De-embedder’ın video çıkışı Kroma keyer cihazının FG girişine bağlanacaktır.											
+4.51      Her Devamlılık masası için bir adet Analog\AES dönüştürücü kullanılacak ve bu çevirici çıkışı masasının AES girişine bağlanacaktır. Analog\AES dönüştürücü çıkışı Devamlılık masasının AES girişine uygun arayüzde teklif edilecektir.											
+4.52      Tüm Devamlılık masalarının PGM çıkışları logo jeneratörüne bağlanacaktır. Daha sonra logolu çıkış											
+çoğaltılarak yeni headend sistemine, Evertz EQX matrikse, yeni matrikse, rejideki PGM monitörüne ve reji teknik izlemeye gönderilecektir.											
+4.53      Devamlılık masalarının PGM2 çıkışları yeni matrikse gönderilecektir.											
+4.54    Devamlılık masalarının CLN çıkışları vda ile çoğaltılarak Evertz EQX matrikse ve yeni matrikse gönderilecektir.											
+4.55      Herbir rejide bulunan teknik izleme video monitörüne ve multiformat sinyal analizörüne rejinin PGM											
+çıkışı ve video matriksin bir çıkışı bağlı durumda olacaktır.											
+4.56      “Protected path/protected router” mimarisi hariç video Matriks Sisteminin tüm giriş ve çıkışları video jackfield’dan geçirilecektir.											
+4.57      Farklı mekanlar (odalar) arası kablolar cihaz odasına girerken ve cihaz odasından ilgili mekana giderken ctp’den geçirilecektir (Kontrol teşkilatı uygulama projesi sırasında isterse değişiklik yapabilir).											
+4.58      Sistemde satın alınan tüm vda’ların en az birer ucu ctp’de birer uçları da video jackfield’da sonlacaktır.											
+4.59      Sözü edilen 4 adet Devamlılık Reji, Anakumanda Merkezi ve Eurovision Bağlantı Kontrol Merkezi için monitor rafı ve cihaz konsolları yüklenici tarafından sağlanacaktır.											
+4.60     Aksi belirtilmedikçe hiçbir cihaz arasında direk bağlantı yapılmayacak, arada bir jackfield ya da ctp bulunacaktır (Kontrol teşkilatı uygulama projesi sırasında isterse değişiklik yapabilir).											
+4.61     Video şemada görülen Televizyon bu ihale kapsamı dışında alınacak olup, monitor rafı yerleşim bu kapsamda yapılacaktır.											
+4.62      TRT-ARIM,  TRT  SPOR,  TRT  TÜRK,  ANAKUMANDA  ve  Haber  Binası  Video  Server  cihaz  odası  arası bağlantılar fiber kablolama ile TRT tarafından yapılacaktır. Bu sistem kapsamında ise Video matriks sisteminden fiber odasına kadar olan video bağlantılar sağlanacaktır.											
+Multiviewer için ayrı kasalar teklif edilecektir. Herhangi iki ayrı tip aynı kasaya konulmayacaktır.											
+4.64    Taslak video şema, Kontrol Teşkilatının isteği doğrultusunda uygulama projesi oluşturulurken değiştirilebilir. Gerekli olmayan ctp ya da video jackfiledlar çıkarılabilir ya da eklenebilir.											
+4.65     TRT HD kanalı mevcut Eurovision Bağlantı Merkezi kaynaklarını kullanmakta olduğundan, yenilen Eurovision Bağlantı Merkezi ile TRT HD kanalı arasında (alınan yeni video matriks ile TRT HD Xenon video matriksi arasında) 20 adet HD SDI bağlantı yapılacaktır.											
+4.66      EBM SES SİSTEM TANIMI VE AKIŞI											
+4.66.1    Sistemde bulunan EBM cihaz odası ve EBM kontrol odası olarak TRT Sitesi Devamlılık Binasında belirlenen odalar kullanılacaktır. 8 adet off-tube olarak Haber ve Spor Yayınları Dairesi Başkanlığı zemin katta belirlenen odalar kullanılacaktır.											
+4.66.2    EBM sistemi için, teknik şartname ekinde bulunan Sistem Şeması ve EBM Ses Blok Şemasında belirtilen tüm bağlantılar yüklenici tarafından yapılacaktır.											
+4.66.3    EBM sistem bilgisayarları olarak 1 adet EBM cihaz odasında ve 2 adet EBM kontrol odasında kullanılmak üzere toplam 3 adet rak tipi bilgisayar yüklenici tarafından sağlanacak ve monte edilecektir ve gerekli tüm yazılımlar yüklenecektir.											
+4.66.4    Kurulacak EBM sistemine ait cihazların tüm yazılımları ve EBM’ de hali hazırda kullanılan uydu sistemi vb. yazılımlar 3 adet sistem bilgisayarına da yüklenecektir. Ayrıca, bilgisayarların halihazırda kullanılan kontrol sistemi ile ağ bağlantısı yapılacaktır.											
+Multiformat Audio Router Sistemi											
+4.66.5    EBM Sistemi Multiformat Audio Router cihazı, EBM cihaz odası rak sistemine monte edilerek tüm AES ve analog ses giriş ve çıkışları 3-pole audio patch panellere taşınacaktır ve MADI hariç tüm AES ve analog ses giriş ve çıkışları bu patch paneller üzerinden bağlanacaktır.											
+4.66.6    Multiformat Audio Router cihazının ve kontrol panellerinin konfigurasyonu EBM ihtiyaçlarına uygun olarak yüklenici tarafından yapılacaktır.											
+4.66.7   Audio Router cihazının stereo girişleri 2 mono kanal gibi, left ve right kanalları birbirinden bağımsız olarak seçilerek farklı stereo çıkışların left veya right kanalına ya da mono MADI çıkışa gönderilebilecektir. Örneğin; 1.stereo girişin L kanalı 1.stereo çıkışın L kanalına gönderilirken,											
+1.stereo   girişin   R   kanalı   2.stereo   çıkışın   L   kanalına   ya   da   1.mono   MADI   çıkışına gönderilebilecektir.											
+4.66.8    Multiformat Audio Router cihazının AES ve analog ses girişlerinden istenenler (L veya R kanalı seçmeli olarak) MADI mono gidiş kanallarına yönlendirilebilecektir, kurulacak interkom slave matriksten yönlendirilerek gelen kaynaklar MADI geliş kanalları olarak kullanılabilecek ve sabit veya seçmeli olarak audio router cihazının AES ve analog ses çıkışlarına (L veya R kanalına seçmeli olarak) yönlendirilebilecektir. Örneğin; 1.stereo girişin L kanalı MADI 1. mono çıkışa seçilirken, 1.stereo girişin R kanalı MADI 2. mono çıkışa seçilebilecektir ya da MADI 1. mono girişi 1. stereo çıkışın L kanalına seçilirken, MADI 2. mono girişi 1.stereo çıkışın R kanalına seçilebilecektir.											
+4.66.9    EBM   ses   blok   şemasında   bağlantı   format   ve   sayıları   belirtilen   ISDN,   Audio   Codec, Commentator Sistemi, Telefon Hibrit, TCC/EBU, NCC/EBU cihazlarının giriş ve çıkışları, audio router cihazının giriş ve çıkışlarına bağlanacaktır.											
+4.66.10  TCC/EBU, NCC/EBU, Commentator Sisteminin  ve  Telefon  Hibrit koordinasyon  hatları  sabit olarak, ISDN ve Audio Codec’ den gelebilecek spiker hatları seçmeli olarak audio router cihazının MADI gidiş kanallarına (SPİKER 1-16) yönlendirilebilecektir. Teklif edilen interkom											
+geliş kanalları olarak kullanılabilecek ve bu sinyaller audio router cihazının ISDN ve Audio											
+Codec koordinasyon girişlerinden istenenlere seçmeli olarak yönlendirilebilecektir.											
+4.66.11 Audio router kontrol panellerinin kurulacağı yerler aşağıda sıralanmaktadır ve istenirse yer değişikliği yapılabilecektir:											
+a.    1 adet XY kontrol panel ve 1 adet teknik kontrol panel EBM cihaz odası											
+b.   1 adet XY kontrol panel ve 1 adet teknik kontrol panel EBM kontrol odası											
+c.    3 adet 8 destination panel EBM kontrol odası											
+d.    1 adet 8 destination panel yedek olacaktır. Interkom Slave Matriks Sistemi											
+4.66.12  TRT Haber ve Spor Yayınları Dairesi Başkanlığı hizmetleri için hali hazırda; master interkom matriksi  olarak  Yeni  Haber  Stüdyosu  (eski  Kerim  Aydın  Erdem  Stüdyosu)  cihaz  odasında bulunan  Clearcom  Eclips  interkom  matriksi,  slave  matriks  olarak  ARİM  Stüdyosu  cihaz odasında bulunan Clearcom Eclips interkom matriksi kullanılmaktadır.											
+4.66.13  EBM   Sistemi   kapsamında;   Eurovision   Bağlantı   Merkezindeki   koordinasyon   hizmetlerini sağlamak amacıyla mevcut sisteme slave olarak dahil olmak üzere 1 adet interkom slave matriks ve 6 adet kontrol paneli teklif edilecek ve tüm bağlantıları ve konfigürasyonu yüklenici tarafından yapılacaktır.											
+4.66.14  Teklif edilen interkom slave matriksi EBM cihaz odası rak sistemine monte edilecektir.											
+4.66.15  Teklif edilen interkom slave matriks üzerinde bulunan fiber kart ile mevcut Clearcom master matriks kasasında bulunan fiber kart bağlantısı yapılacaktır. Bu bağlantı için Yeni Haber Stüdyosu ve Anakumanda Merkezi arasında hazır bulunan fiber hattının 2 adet kılı kullanılabilecektir.											
+4.66.16 Teklif edilen interkom slave matriksi ile audio router cihazının MADI hatları karşılıklı bağlanacaktır  ve  sorunsuz  çalışması  için  gerekli  tüm  önlemler  alınacaktır.  İnterkom  slave matriks için gerekli ise referans bağlantısı yapılacaktır.											
+4.66.17  Interkom kontrol panellerinin kurulacağı yerler aşağıda sıralanmaktadır:											
+a.    1 adet 24 tuşlu/48 (shift) kaynak tuşlu kontrol panel EBM cihaz odası											
+b.   5 adet 24 tuşlu/48 (shift) kaynak tuşlu kontrol panel EBM kontrol odası											
+4.66.18 Kurulacak olan EBM sistemi ile mevcut interkom sistemine dahil olacak ve karşılıklı olarak kullanılacak koordinasyon sesleri aşağıda sıralanmaktadır:											
+a.    SPİKER 1-16 (seçmeli)											
+b.   OFF-TUBE 1-8 (Commentator sistemi ana ünite CO-ORD bağlantılı), (sabit)											
+c.    Telefon Hibrit (sabit)											
+d.   TCC (sabit)											
+e.   NCC (sabit)											
+Voice-over ve Audio Processor Üniteleri											
+4.66.19  Voice-over  ve  audio  processor  ünitelerinin  ana  cihazları  EBM  Cihaz  Odası  rak  sistemine, kontrol panelleri ise EBM Kontrol Odasına monte edilecektir. Voice-over ve audio processor											
+üniteleri EBM Kontrol Odasına kurulacak olan bilgisayarlar üzerinden kontrol edilebilecektir. Bunun için gerekli tüm bağlantılar yapılacak ve varsa yazılımlar yüklenerek gerekli konfigürasyonu yüklenici tarafından yapılacaktır.											
+sistem şemasında belirlenen şekilde bağlanacaktır.											
+4.66.21  Voice-over ve audio processor ünitelerinin ana cihazlarının en az 2 adet AES girişi ve en az 4 adet AES çıkışı audio router cihazı AES giriş ve çıkışlarına bağlanacaktır.											
+Commentator Sistemi											
+4.66.22  Commentator Sistemi ana üniteleri EBM kontrol odasına monte edilecektir, spiker üniteleri											
+Haber ve Spor Yayınları Dairesi Başkanlığı Zemin katındaki off-tube odalarına yerleştirilecektir.											
+4.66.23  Commentator Sistemi; 8 adet ana ünite ile 8 adet spiker ünitesinin bağlantısı için 8 adet ana ve											
+2 adet yedek olmak üzere toplam 10 hat çekilecektir. Bu hatlar Eurovision Bağlantı Merkezi Cihaz Odası (Devamlılık Binası) ve Haber ve Spor Yayınları Dairesi Başkanlığı Zemin katındaki Video Server Cihaz Odasına (Haber Binası) yerleştirilecek CTP’ ler üzerinden bağlanacaktır.											
+4.66.24 Commentator Sistemi ana ünitelerin PGM/MIX çıkışları Audio Router analog ses girişlerine bağlanacaktır.											
+4.66.25  Commentator Sistemi ana ünitelerin Guide 2 girişlerine Audio Router analog ses çıkışlarından bağlantı yapılacaktır.											
+4.66.26  Sistem şemasında ve EBM Ses Blok şemasında görülen de-embedder 1-8 ünitelerinin sadece 2 kanal ses çıkışları, AES ise analog ses sinyaline çevrilerek Commentator Sistemi ana ünitesi International Sound (IS) ve GUIDE 1 girişlerine bağlanacaktır.											
+4.66.27  Commentator Sistemi ana ünitelerin CO-ORD giriş ve çıkışları audio router cihazı analog ses giriş ve çıkışlarına bağlanacaktır.											
+Test Tone											
+4.66.28  Teklif edilen Audio Test Tone Jeneratörü, EBM cihaz veya kontrol odasına monte edilecektir ve cihazın çıkışları audio router cihazının girişlerine bağlanacaktır.											
+Identification Sound Loop Cihazı											
+4.66.29  Teklif edilen Identification Sound Loop cihazı EBM kontrol odasına monte edilecektir ve cihazın giriş/çıkışları EBM Cihaz Odasına taşınarak audio router cihazına bağlanacaktır.											
+ISDN CODEC Cihazı											
+4.66.30  EBM Ses Blok şemasında belirtilen ve mevcut sistemde hali hazırda kullanılmakta olan 5 adet ISDN codec cihazı, EBM Kontrol Odasına monte edilecektir. Cihazların AES giriş ve çıkışları EBM Cihaz Odasına taşınarak audio router cihazına bağlanacaktır.											
+Telefon Hibrit Cihazı											
+4.66.31  Teklif edilen 1 adet Dual Telefon Hibrit cihazı EBM Kontrol Odasına monte edilecektir. Cihazın tüm ses giriş ve çıkışları EBM Cihaz Odasına taşınarak audio router cihazına bağlanacaktır.											
+TCC/NCC Cihazları											
+4.66.32  EBM Ses Blok şemasında görülen TCC ve NCC cihazları EBU (Eurovision Broadcasting Union) ile teknik ve haber koordinasyon amacıyla kullanılan iletişim kutuları olup, cihaz odasına monte edilecektir. Ses giriş ve çıkışları mono analog ses olup, interkom slave matriks sistemine yönlendirilmek üzere audio router cihazına bağlanacaktır.											
+De-embedder Üniteleri											
+4.66.33  EBM Ses Blok şemasında görülen toplam 10 adet de-embedder kartları cihaz kasasına takılı											
+olarak EBM cihaz odası rak sistemine monte edilecektir.											
+4.66.34  De-embedder 1-8 üniteleri, Commentator Sistemi bölümünde belirtildiği şekilde bağlanacaktır.											
+4.66.35  De-embedder 9-10 ünitelerinin 4’er adet AES ses çıkışları audio router cihazı AES girişlerine											
+bağlanacaktır.											
+4.66.36 De-embedder ünitelerinin uzaktan kontrol arayüzleri EBM Kontrol Odasındaki bilgisayara yüklenecek, ses çıkışlarına istenen gömülü ses kanalları seçilebilecektir.											
+EBM Cihaz Odası ile Ana Kumanda Ana Cihaz Odası Arasındaki Bağlantılar											
+4.66.37  EBM  cihaz  odası  rak  sistemine  monte  edilecek  olan  IRD,  up-link  vb.  uydu  cihazlarının bağlantıları sistem şemasında belirtilen şekilde yapılacaktır.											
+4.66.38 Voice-over ve audio processor ve de-embedder ünitelerinin bağlantıları sistem şemasında belirtilen şekilde yapılacaktır.											
+EBM Cihaz Odası ile Ana Kumanda Fiber Odası Arasındaki Bağlantılar											
+4.66.39  Audio router cihazının çıkışından ARİM Stüdyosu Ses Rejiye gönderilmek üzere 4 adet AES, Ankara Radyosuna gönderilmek üzere 4 adet AES ve 2 adet yedek olmak üzere toplam 10 hat olacak şekilde kablo çekilerek, Fiber Odasında bulunan Fiber Codec cihazlarına bağlantı yapılacaktır.											
+EBM Kontrol Odası Test ve Monitörleme											
+4.66.40  EBM kontrol odasında teknik kontrol ünitesi için belirtilen kısıma multiformat video ve audio analizör cihazı monte edilecektir.											
+4.66.41  Multiformat  video  ve  audio  analizör  cihazının  video,  audio,  referans  vb.  tüm  bağlantıları											
+sistem şemasında belirtilen şekilde yapılacaktır.											
+4.66.42  EBM kontrol odası dinleme için 7.1 surround referans hoparlör seti yerleştirilecektir. EBM Cihaz Odası Test ve Monitörleme											
+4.66.43 EBM cihaz odası rak sistemine 1 adet multiformat video ve audio analizör cihazı monte edilecektir.											
+4.66.44  Multiformat  video  ve  audio  analizör  cihazının  video,  audio,  referans  vb.  tüm  bağlantıları											
+sistem şemasında belirtilen şekilde yapılacaktır.											
+4.66.45  EBM cihaz odası dinleme için stereo hoparlör seti rak üzerine yerleştirilerek kullanılacaktır.											
+5.          VİDEO TEÇHİZATI											
+5.1        Video Matriks ve Aksesuarları											
+5.1.1      Teklif  edilen video  matriks  sisteminin  markası, modeli, giriş ve  çıkış  kartlarının  modeli ve											
+sayıları, crosspoint kartının modeli ve sayısı belirtilecektir.											
+5.1.2      Teklif edilen Video Matriks sisteminin video giriş ve çıkışları SMPTE 259M-C SD SDI, SMPTE											
+292M ve SMPTE 424 M HD SDI arayüzü standardına uygun olacaktır. Video Matriks SMPTE											
+259M-C SD SDI, SMPTE 292M ve 424M HD SDI video sinyallerini, sinyaller üzerine gömülü (16 kanal embedded) seslerde bozulma olmadan anahtarlayabilecektir ve iletecektir.											
+5.1.3      Teklif  edilen  video  matriks  HD SDI  sinyal  içine  gömülmüş  Dolby  E kodlu  sinyalleri  (video matriks girişine uygulanmadan önce video ve Dolby E frame align edilmiş olmak koşuluyla) Dolby E yapısını bozmadan ve anahtarlama sırasında ve sonrasında ses de kliklere veya bozulmalara sebeb olmadan anahtarlayabilecek ve iletebilecektir.											
+5.1.4      Video Matriksin madde 5.1.1’de tanımlandığı şekilde minimum 512 adet SD\HD SDI girişi ve											
+SD\HD SDI 512 adet çıkışı bulunacaktır.											
+5.1.5      Teklif edilen video matriksin cihaz kasası en az 512X512 şeklinde olacaktır.											
+5.1.6      Video Matriks tüm SDI giriş ve çıkışlarında BNC (75 ohm)/ DIN 1.0/2.3 (75 Ohm)/ mini HDC ya da HD-BNC koaksiyel konnektörleri kullanılabilir.											
+5.1.7      Teklif  edilen  video  matriks  7x24  çalışabilecek  şekilde  tasarlanmış  olup  redundant  güç kaynağına  ve  redundant  kontrol  kartına  (ya  da  kontrol  cihazına)  sahip  olacaktır.  Güç kaynağında ve kontrol kartında/cihazında oluşacak herhangi bir arıza durumunda redundant güç kaynağına ve redundant kontrol kartına/cihazına otomatik geçiş özellikleri bulunacaktır ve arızalı modül değiştirilirken matriksin kapatılmasına gerek olmayacaktır.											
+5.1.8      Teklif edilen Video Matriks sistemi aşağıda belirtilen şartlardan birini sağlayacaktır.											
+a.     Teklif edilen video matriks sistemi eğer tüm giriş ve çıkışlar için tek bir crosspoint kartına sahipse, ana crosspoint kartının arızası durumunda otomatik geçiş özellikli % 100 yedekli “redundant cross point” kartına sahip olacaktır.											
+b.     Teklif edilen Video matriks sistemi birden fazla crosspoint kartına sahip olacak şekilde bir mimaride  tasarlanmışsa,  crosspoint  kartlarından  birinin  arızası  durumunda  otomatik geçiş özellikli 1 adet redundant crosspoint kartı bulunucak ve ayrıca sistemdeki diğer crosspoint kartlarının arızalanması ihtimaline binaen geriye kalan crosspoint kartları sayısınca crosspoint kartı “spare” olarak teklif edilecektir.											
+5.1.9     Matriks sistemini programlamak için gerekli yazılım lisanslı olarak CD/DVD veya benzer bir ortamda kayıtlı olarak idareye teslim edilecektir. Matriks sisteminin kullanımı için gerekli tüm ayarlamalar, kaynak ve çıkış tanımlamaları, kontrol panelleri tanımlamaları, salvo ve benzeri tüm işlemler söz konusu yazılım ile birlikte yapılabiliyor olacaktır.											
+5.1.10    Teklif edilecek Video Matriks’in “reclocking” özelliği olacaktır.											
+5.1.11    Video matriks sistemi kapatılıp tekrar açıldığında en son programlanmış hali ile tekrar devreye girecektir.											
+5.1.12    Matriks kasaları ya da kartları üzerinde kritik şartları izlemek için LED’li durum göstergeleri olacaktır.											
+5.1.13    Matriksin harici video referans girişi olacak ve teklif edilecek SPG sisteminden beslenecektir.											
+5.1.14   Teklif edilen video router sisteminden bu ihale kapsamında teklif edilen multiviewer ve devamlılık masalarına kaynak isimleri aktarılabilmelidir.											
+5.1.15    Kontrol Panelleri											
+(a)           Teklif edilen tüm kontrol panelleri 19 inch genişliğinde olacaktır.											
+(b)          Teklif  edilecek  tek  destinasyonlu  panel  teknik  izlemede  kullanılacak  olup  video matriksin tüm kaynaklarından istenilen birini tek bir çıkışa yönlendirmek için kullanılacaktır. Panel aşağıdaki seçeneklerden birini sağlayacak şekilde teklif edilecektir.											
+i.       Panel üzerinde en az 48 adet LCD buton, en az iki adet LCD/LED gösterge ve rotary knob bulunacaktır. Kaynak isimleri text olarak görülebilecektir. Page oluşturma mantığı ile çalışabilecektir. Page’ler arası erişim panel üzerinde ileri/geri şeklinde yapılabilecektir.											
+ii.       Panel üzerinde en az 28 adet LCD buton ve buna ek olarak en az 6 satırlık durum											
+(status) göstergesi bulunacaktır.											
+(c)           Teklif edilecek 8’li multi-bus paneller ile video routerin en az sekiz çıkışını kontrol etmek ve video matriksin tüm girişlerinden istenilenleri bu çıkışlara yönlendirmek için kullanılacaktır. Panel üzerinde en az 32 adet LCD buton olacaktır. söz konusu LCD											
+butonlar source, destination, category vb. fonksiyonlar olarak tanımlanabilecek ve											
+atama yapılabilecektir.											
+(d)         Teklif edilecek XY kontrol paneli istenilen bir girişi istenilen çıkışa seçmek için kullanılacaktır. Router kontrol paneli üzerinde en az 32 adet LCD display   buton olacaktır ve söz konusu LCD butonlar source, destination, category vb. fonksiyonlar olarak tanımlanabilecek ve atama yapılabilecektir. Destinasyonlarda sınırlama yapılabilecektir.											
+(e)           By-Pass Router paneli LAN’da oluşabilecek ağ bağlantı problemlerinde kullanılacaktır.											
+Bu panel ya video routera doğrudan erişebilen (ethernet üzerinden haberleşmeyen) bir yapıda olacak ya da haberleşme şekli olarak ethernet protokolü kullanılıyor ise ethernet  switch,  ethernet  hub  gibi  LAN’ı  kullanan  anahtarlıyıcı  ünitelere bağlanmadan doğrudan video router ile bağlanan bir yapıda teklif edilecektir (Bu bağlantı router ve panel arasındaki birebir ethernet bağlantısı şeklinde de olabilecektir). Tek destinasyon olarak tanımlanabilecektir. Panel 1RU/2RU büyüklüğünde en az 16 LCD buton ya da 3RU büyüklüğünde ve dokunmatik olarak teklif edilecektir											
+(f)          Sistem Kontrol Paneli , video matriksin ve kart tipi cihazların (vda, embedder, dönüştürücü gibi  ) aynı marka olması durumunda hem router kontrol paneli olarak hemde sistemin genelinde de SNMP ile ulaşılabilen kartları (vda, embedder, etc..) kontrol etmek üzere kullanılacak panel ya LCD butonlu ve rotary knob özellikli ya da dokunmatik (touch screen) olarak teklif edilecektir, video matriksin ve kart tipi cihazların farklı marka olması durumu içinse sadece kart tipi teçhizata SNMP ile erişilebilecek panel teklif edilecektir.											
+5.2       Devamlılık Masası											
+5.2.1      Herbir Devamlılık reji için Devamlılık Masaları ayrı kasalarda teklif edilecektir.											
+5.2.2      Farklı  marka  video  matriks  ve  Devamlılık  masaları  arasında  yaşanabilecek  entegrasyon işlemleri sırasında (gecikme,) ortaya çıkabilecek problemlerin önüne geçmek adına amacıyla, bu sistem içerisinde teklif edilen Devamlılık Masaları ile 5.1 bölümünde tarif edilen Video Matriks sistemi aynı marka olacaktır.											
+5.2.3      Devamlılık Masası video giriş ve çıkışları SMPTE 259M-C SD SDI ve  SMPTE  292M HD SDI											
+standartlarına uygun olacaktır.											
+5.2.4      Devamlılık  masası  1920*1080i  50Hz,  1280*720p  50Hz  ve  720*576i  50  Hz  formatlarında											
+çalışabilecektir.											
+5.2.5      Teklif  edilecek  devamlılık  masası  madde  5.1.’de  tanımlanan  video  matriks  ile  birlikte											
+çalışacaktır. Söz konusu video matriksi upstream router olarak kullanacaktır.											
+5.2.6      Devamlılık masası yerine bu ya da benzeri işleri yapan logo inserter, channel branding ürünleri teklif edilmeyecektir.											
+5.2.7      Devamlılık  masası  arıza  durumunda  otomatik  geçiş özelliği  olan  redundant güç kaynağına sahip olacaktır.											
+5.2.8      Masanın harici referans girişi olacak ve mevcut referans sisteminden beslenecektir.											
+5.2.9      Devamlılık  masasının  ya  video  by-pass  özelliği  bulunacak  ve  her  iki  güçkaynağınında  da problem  olması  durumu  için  girişlerden  biri  otomatikman  çıkışa  yönlendirilecek  ya  da  bu											
+özellik bulunmuyorsa yoksa Teknik şartnamenin 5.3 bölümündeki harici by pass anahtarlayıcı											
+teklif edilecektir.											
+5.2.10    Teklif edilen masanın Program ve Preset/Preview girişleri bulunacaktır.											
+5.2.11    Teklif edilen masanın Program, Preset/Preview, Clean ve AUX/Monitor çıkışları bulunacaktır.											
+5.2.12    Devamlılık masası aşağıdaki iki koşuldan birini sağlayacaktır.											
+a.  En az 3 adet video Key ve 3 adet video Fill girişi bulunacaktır.											
+b.  Eğer harici iki adet key ve fill girişi bulunuyorsa, üçüncü harici key ve fill girişi, teklif edilen logo jeneratörü ya da başka herhangibir yardımcı kartın Fill ve Key girişi ile sağlanabilecektir. Ancak bu durumda da en son çıkışın ön izlemesi mümkün olacaktır.											
+3. Keyin kontrollerini ya Devamlılık masası kontrol paneli üzerinde ya da external bir kontrol paneli ile yapmak mümkün olacaktır.											
+5.2.13    Yapılan bütün key işlemleri yayına vermeden önce ve hazırlık aşamasında masanın PST/PVW											
+çıkışından izlenebilecektir.											
+5.2.14    Devamlılık Masası dahili keyer’la birlikte en az 4 kanal Keyleme yapabilecektir.											
+5.2.15    2 kanal 2D DVE yapmak mümkün olacaktır.											
+5.2.16    Devamlılık masasını kontrol etmek için her bir devamlılık reji için birer adet masa üstü kontrol paneli sağlanacaktır.											
+5.2.17    Kontrol paneli üzerinde en az PGM ve PST\PVW olmak üzere 2 adet kat (bus) bulunacaktır.											
+5.2.18    Devamlılık  Masası  kontrol  paneli  üzerinden  video  matriks  kaynaklarına  kaynak  isimleriyle erişim mümkün olacaktır.											
+5.2.19    PGM ve PST/PVW katları için en az 12’şer adet kaynak seçme tuşları olacaktır. Gruplama, atama, gördüğü matriks kaynaklarını sınırlama mümkün olacaktır.											
+5.2.20    PGM  ve  PST  katlarına  seçilen  kaynak  isimleri  video  matriks  sistemindeki  haliyle  kontrol paneline yansıtılacaktır. Kontrol panelinden seçilen kaynak başka bir kullanıcı işlemine gerek kalmadan çağrıldığında kontrol panelinde ve multiviewerda görüntülenecektir.											
+5.2.21    Video  Matriksdeki  kaynaklara  kolay  erişimi  sağlamak  amacıyla  kontrol  paneli  üzerindeki kaynak seçme tuşlarında kaynak isimleri bir üst göstergede ya da tuşun kendi üzerinde yazılı olarak bulunacaktır.											
+5.2.22    Devamlılık masası üzerinde video ve audio üzerinde her bir PGM-PST/PVW kaynak katında Cut, Mix, Fade geçişleri yapmak mümkün olacaktır.											
+5.2.23    PGM ve PST katlarındaki kaynaklar arası geçişlerde, HD SDI embedded ses sinyalleri üzerinde sesde çatlama, klik ya da pop gibi bozulmalar olmayacaktır.											
+5.2.24    Devamlılık masası (ses ve video frame’i hizalanmış olmak üzere) embedded durumdaki Dolby E											
+sinyali, veri yapısını bozmadan pass-through geçirebilecektir.											
+5.2.25    Geçişin süresi, türü ve oranı ayarlanabilinir olacaktır.											
+5.2.26   Geçişlerin kolay ve hızlı yapılabilmesi için kontrol paneli üzerinde geçiş kontrol bölümünde oranların ve türlerin seçildiği tuşlar bulunmalıdır.											
+5.2.27    Devamlılık Masasına giren HD SDI (audio embedded) kaynaklar öncelikle de-embed edilecek video ve audio ayrı katlarda işlenecek ve tüm işlemler bitirildikten sonra sonra son aşamada video ve se sinyali tekrar embed edilecektir. Devamlılık masasında yapılan tüm bu işlemler sonrasında masasının tüm HD SDI çıkışlarında ses ve video arasında “lip sync” sağlanmış olacaktır.											
+5.2.28    Devamlılık masası SD SDI sinyali üzerinde 8 kanal embedded ses ve HD SDI sinyali üzerinde 16 kanal embedded ses sinyalleri destekleyecek ve gerek embedded gerekse AES giriş üzerinden Devamlılık Masasına giren ses sinyaleri üzerinde (Dolby E sinyali hariç) mix yapmak, çıkışa											
+istenen  kanalların  yönlendirilmesi  (dynamic  shuffle),  kanallar  arası  yer  değiştirme  (swap)											
+yapmak mümkün olacaktır.											
+5.2.29    Kontrol paneli üzerinde ses (Audio) kontrol bölümü bulunacaktır. Bu bölümde (kontrol paneli											
+üzerinde) ya da harici ekran(lar)da en az sekiz adet ses kanalının gösterildiği bar display olacaktır. Ses (Audio) kontrol bölümünde gerek PGM gerekse PST katı için ses seviye ayarlamaları yapılabilecektir.											
+5.2.30    Devamlılık masasının “Voice over” özelliği bulunacak ve bu amaçla harici en az 1 adet AES											
+audio girişi bulunacaktır.											
+5.2.31    Devamlılık masalarının PGM ve PVW çıkışları VDA ile çoğaltılacak, bu çıkışlar Seçmeli Rak tipi Ses ünitesinin HD/SD SDI girişine gönderilecek ve 7.1 stüdyo hoparlörleri üzerinden seçmeli olarak dinlenebilecektir.											
+5.2.32   Devamlılık Masası kontrol paneli yazılım yoluyla programlanabilir dinamik bir yapıya sahip olacaktır. Geçiş türünün ve geçişin hızının (hızlı, yavaş gibi) atantığı semboller ve DVE, KEY1, KEY2, KEY3, Voice Over gibi tuş atamaları yapılabilecektir.											
+5.2.33    PGM ve PST katlarının ses kanalları seviye ayarları için masa üstü kontrol paneline kısayol tuşları atanabilecektir.											
+5.2.34    Devamlılık masasının tüm giriş ve çıkışları video jack fieldlara taşınacak, tüm bağlantılar bunun											
+üzerinden yapılacaktır.											
+5.2.35    Devamlılık Masası üzerinde PGM sesi için ya EBU R 128 ve/veya ITU-R-1770 uygun Loudness kontrolu  yapmak  mümkün  olacaktır  ya  da  bunun  Devamlılık  Masasında  sağlanamaması durumu için otomatik geçişli yedek güç kaynaklı ve by-pass özellikli harici kart ya da cihaz yükleneci tarafından sağlanacaktır.											
+5.3       By-pass Anahtarlayıcı											
+5.3.1     Cihazın minimum iki adet, HD SDI SMPTE 292M ve SD SDI SMPTE 259M uyumlu girişi bulunacaktır.											
+5.3.2      Cihazın “Relay Bypass” özelliği bulunacaktır.											
+5.3.3      Anahtarlama mekanik röle şeklinde olacaktır.											
+5.3.4      Cihazın bir girişine (Devamlılık masasının PGM çıkışı harici Logo üretecine gönderilecek) logo											
+üretecinin çıkışı ve diğer girişine video matriks çıkışı çıkışı bağlanacaktır. Video matriks çıkışı ve Devamlılık  masanın  logolu  PGM çıkışı  arasında  remote  kontrol  paneli  kullanılarak  manuel olarak geçmek mümkün olacaktır. Yanlış kullanımı önlemek amacıyla geçiş işlemi, birbiri ardına iki işlem veya iki tuş birden kullanılacak şekilde yapılacaktır.											
+5.3.5    Teklif  edilecek  by-pass  switcher  cihazlarının  kontrol  panelleri  Devamlılık  Rejiye yerleştirilecektir.											
+5.4        Kroma Keyer											
+5.4.1      HD(1920*1080i  50Hz,  1280*720p  50Hz)  ve  SD(720*576i  50  Hz)  formatlarında  çalışabilen kroma keyer cihazı teklif edilecektir.											
+5.4.2      Bu  bölüm  için  Kroma  Keyer  cihazı  dışında  başka  işler  için  üretilmiş  ancak  Kroma  Keyer											
+özellikleri taşıyan başka bir ürün teklif edilmeyecektir.											
+5.4.3      Kroma Key cihazının 3 adet HD/SD SDI (Foreground, Background ve Key) girişi bulunacaktır.											
+5.4.4      2 adet ana ve 2 adet AUX çıkışa sahip olacaktır. Bu çıkışlara suppressed foreground giriş, background giriş, Processed Key, Self-Key, Matte generator yönlendirilebilmelidir.											
+5.4.5      Kroma  key  üzerinde  renk  tonu,  kroma  seviyeleri,  Y  düzeltme  (Y  correction),  Key  shrink,											
+Shadow enhance, suppression angle, max clip, min clip ayarları yapılabilmelidir.											
+5.4.6      Kroma Keyer için uzaktan (remote) kontrol panel teklif edilecektir. İlgili ayarlar bu panelden yapılabiliyor olacaktır.											
+5.4.7      Luminans Key (Self Key) özelliği bulunmalıdır.											
+5.4.8      Foreground ve Background üzerinde mix ve wipe geçiş yapılabilmelidir.											
+5.4.9      Cihaz 19” Raka monte edilebilen kasa içinde, yedek güç kaynağı ile birlikte teklif edilmelidir.											
+5.4.10    Cihazın PVW çıkışı çoğaltılarak biri video routere diğeri de rejideki Kroma Keyer monitörüne gönderilecektir.											
+5.5		"Logo Ü
+5.5.1"		"reteci
+HD (1920*1080i 50Hz, 1280*720p 50Hz) ve SD (720*576i 50 Hz) formatlarında çalışabilen logo"							
+				inserter cihazı teklif edilecektir.							
+		5.5.2		HD/SD SDI video giriş ve çıkışları SMPTE 292M ve SMPTE 259M-C standartlarına uygun olacak ve ayrıca SMPTE 299M ve SMPTE 272M standartlara uygun olarak gömülü (embedded) sesi bozmadan geçirebilecektir.							
+		5.5.3		Cihaz program girişine, program ve preview çıkışına sahip olacaktır.							
+		5.5.4		Cihaz  enerji  kesilmesi  durumuna  karşı  “Input  Bypass  relay”  özelliğine  sahip  olacak  ve istenildiğinde geçiş manuel olarak sağlanacaktır.							
+		5.5.5		Logo inserter’ın LTC girişi olacak ve sistem saatiyle senkronlanmak için kullanılacaktır.							
+		5.5.6		Cihaz video üzerine animasyon, renkli resim ve metin bindirebilecektir.							
+		5.5.7		Cihaz harici video sinyaline kilitlenebilecektir.							
+		5.5.8		Cihazla birlikte uzaktan kontrol paneli teklif edilecektir.							
+		5.5.9		Minimum 10 bit video/key processing yapacaktır.							
+		5.5.10		Her  bir  logo  birbirinden  bağımsız  olarak  ekranın  istenen  yerine  hareket  ettirilebilmeli  ve büyüklüğü ve şeffaflığı (transparency) ayarlanabilmelidir.							
+		5.5.11		PC tabanlı grafik paketleri ile hazırlanan logolar USB ya da ağ üzerinden cihaza yüklenebilecektir. Windows Bitmap Format, Targa (TGA) gibi dosya formatlarından transfer yapılabilecektir. Logoların ağ üzerinden yüklenmesi için özel yazılım gerekiyorsa, bu yazılım da sağlanacaktır.							
+		5.5.12		"Teklif edilecek logo inserter cihazının minimum 1GB Compact Flash storage ve 1 GB Playout
+Cache memory alanı olacaktır."							
+		5.5.13		Kaydedilen logolara doğrudan ulaşma (tuşa atama) imkanı olacaktır.							
+		5.5.14		Cihaz 19” rak tipinde olacak ve yedek güç kaynağı ile birlikte sağlanacaktır.							
+5.6        Equalizing Analog Video Dağıtım Yükselteci											
+5.6.1      Kart tipi analog VDA teklif edilecektir. Video giriş ve çıkışları 625/50 Hz PAL uyumlu olacaktır.											
+VDA’lar sistem referansını dağıtmak için kullanılacaktır.											
+5.6.2      VDA loop-through’lu bir girişe ve en az 6 bağımsız video çıkışına sahip olacaktır.											
+5.6.3      Aşağıdaki teknik şartlar sağlanacaktır:											
+a.	Video Giriş								: 1 Vpp nominal		
+b.	Giriş için geri dönüş kaybı								: >20 dB(up to 5 MHz)		
+c.	Equalizing								: 0-300m (Belden 8281 için)		
+d. e.	"Video Çıkış
+Çıkış için geri dönüş kaybı"								": 1 Vpp, 75 
+: >35 dB(up to 5MHz)"		
+5.7        Sayısal Video Dağıtım Yükselteci (VDA)											
+5.7.1      Teklif edilecek tüm Video Dağıtım yükselteçleri HD/SD çalışabilir olacaktır.											
+5.7.2      Minimum bir adet HD /SD SDI video giriş ve en az 8 adet HD/SD SDI çıkışa sahip olacaktır. Bu giriş  ve  çıkışlar  SMPTE  424M,  SMPTE  292M  ve  SMPTE  259M-C  standartlarına  uygun											
+çalışabilecektir.											
+5.7.3      Gelen video sinyalin formatını otomatik olarak algılayacaktır.											
+5.7.4      Teklif edilecek VDA’lar SNMP protokolü ile veya benzer protokoller kullanan yazılımla monitör edilmesi ve kontrol edilmesi mümkün olacaktır.											
+5.7.5      “Re-clocking” ve “cable equalizer” özellikleri bulunacaktır.											
+5.7.6      Aşağıdaki teknik şartlar sağlanacaktır:											
+a.     Giriş için geri dönüş kaybı                                           : > 15 dB (5 Mhz ile 1.485Ghz arası)											
+b.     Çıkış için geri dönüş kaybı                                           : >15 dB (1.485GHz’e kadar)											
+c.      Equalization (Belden 1694A ya da eşleniği kablo için) : 3Gb/s için 65 metreye kadar											
+1.5Gb/s için 100 metreye kadar											
+270Mb/s için 250 metreye kadar											
+5.7.7      Teklif edilecek HD SDI VDA’lar kart tipi olacak ve teklif edilecek HD SDI VDA ile aynı markada											
+19” genişliğinde kasalara monte edilebilir olacaktır. Söz konusu kasalar redundant güç kaynağı											
+ile birlikte teklif edilecektir.											
+5.8        De-Embedder											
+5.8.1      Teklif edilen De-embedder gelen video sinyalin formatını otomatik olarak algılayacaktır. Hem											
+SD hem de HD çalışabilecektir.											
+5.8.2      SMPTE 259M-C standardında 270Mbps SD SDI, SMPTE 292M ve SMPTE424M standardında HD SDI video sinyali üzerine gömülü sesi çözebilecek de-embedder teklif edilecektir.											
+5.8.3      Video çıkışı SMPTE 259M-C, SMPTE 292M, SMPTE 424M standartlarına uygun olacaktır.											
+5.8.4      De-embedder’ın  minimum  2 adet yeniden  tetiklenmiş  (re-clocked)  HD/SD SDI  video çıkışı											
+bulunacaktır.											
+5.8.5      Minimum 4 adet AES çıkışı (8 mono channel) bulunacaktır. Söz konusu AES çıkışlar balanced olacaktır. Unbalanced çıkışlı teçhizat teklif edilmesi durumunda gerekli konverterler (75ohm-											
+110 ohm converter) Yüklenici tarafından sağlanacaktır.											
+5.8.6      SNMP ya da benzer protokollerle uzaktan kontrolü ve monitörlenmesi mümkün olacaktır.											
+5.9        PAL/SDI Çevirici											
+5.9.1      Teklif edilecek PAL SD SDI çevirici, girişine uygulanan PAL composite video sinyalini ve 4 adet mono analog ses sinyalini sayısala çevirip, ses sinyalini video sinyali üzerine binderecek ve SD SDI (Girişine uygulanan 4 adet mono ses sinyali embed edilmiş biçimde) 270Mb/s seri dijital video çıkış olarak verecektir.											
+5.9.2      Giriş videosunu analogdan sayısala çevirirken minimum 12 Bit örnekleme kullanılacaktır.											
+5.9.3      Frame  senkronlayıcı  özelliği  olacaktır.  Referans  girişine  uygulanan  referans  sinyaline  göre gelen video sinyalini senkronlayacaktır.											
+5.9.4      Aşağıdaki teknik şartlar sağlanacaktır:											
+Video giriş için geri dönüş kaybı    > 35 dB  (5 Mhz’e kadar) Seri Dijital Component Video Çıkış											
+a.    Empedans         75 											
+b.   Return Loss       > 15 dB to 270Mhz c.    DC level             0.0V+-0.5 V											
+d.   Overshoot         < Genliğin % 10											
+5.9.5      En az 2 adet SD SDI çıkışı olacaktır.											
+5.9.6      Video sinyali için black Level, kazanç, hue ayarları olacaktır.											
+5.9.7      4 adet analog mono dengeli (balanced) audio girişi olacaktır. Unbalanced girişli teçhizat teklif edilmesi durumunda gerekli konverterler (75ohm-110 ohm converter) yüklenici tarafından sağlanacaktır.											
+5.9.8      Çıkışta video ve ses arasında senkronizasyon bozukluğu olmayacaktır.											
+5.10      Frame Senkronlayıcı											
+5.10.1    Sayısal   video   girişleri   ve   çıkışları   SMPTE   259M-C   (270Mbit/s,   625/50i)   SMPTE   292M (1.485Gbit/s) ve SMPTE 424M (3Gbit\s, 1080p 50) standardında olacaktır.											
+5.10.2    Gelen video sinyalinin formatını otomatik olarak algılayabilecek ve gelen video formatına göre											
+çalışacaktır.											
+5.10.3    En az bir adet HD/SD SDI video girişe ve en az 2 adet HD/SD SDI video çıkışa sahip olacaktır.											
+5.10.4    SD/HD frame senkronlayıcı referans girişine uygulanan “Black Burst” ya da “tri level sync”											
+sinyaline göre video girişine uygulanan SD ve HD sinyali senkronlayacaktır.											
+5.10.5    Embedded ses bozulmadan ve ses de gecikme olmadan çıkışa yönlendirilebilecektir.											
+5.10.6    Embeded sinyal içindeki ses çözülerek ses kanalları üzerinde yer değiştirme ve  kazanç ayarları											
+yapılabilecektir.											
+5.10.7    Aşağıda  bulunan  video  kontrollerden  en  az  bir  satırdakini  (ilgili  satırdaki  tüm  kontrolleri)											
+yapmak mümkün olacaktır. a.    RGB kazanç											
+b.   Y/Cb/Cr kazançları, Y/Cb/Cr ofsetleri, hue ayarları											
+c.    Luminans kazancı, Krominans kazancı, Black Level ve hue ayarları											
+5.10.8    Giriş video sinyalinde problem olduğunda son iyi karede donma (freeze) özelliği bulunacaktır.											
+5.10.9    Teklif edilen frame senkronlayıcılardan 8 tanesi için iki kanal AES giriş sağlanacak olup, bu											
+girişler üzerinden alınan sesler video sinyali üzerine (embed edilecek) eklenecektir. Frame senkronlayıcıların AES girişleri ve teklif edilen teknik şartnamenin 6.17 bölümünde özellikleri verilen Analog\AES çeviricilerin çıkışları birbirine uygun olarak teklif edilecektir.											
+5.11      Frame Senkronlayıcı (Dolby E hizalama özellikli)											
+5.11.1    SD/HD frame senkronlayıcı referans girişine uygulanan “Black Burst” ya da “tri level sync”											
+sinyaline göre video girişine uygulanan SD ve HD sinyali senkronlayacaktır.											
+5.11.2    Sayısal   video   girişleri   ve   çıkışları   SMPTE   259M-C   (270Mbit/s,   625/50i)   SMPTE   292M (1.485Gbit/s) ve SMPTE 424M standardında olacaktır.											
+5.11.3    Teklif edilen frame senkronlayıcı HD SDI sinyali içine gömülmüş olan Dolby E ses sinyalinde oluşabilecek kaymaları gidermek amacıyla kullanılacak olup, HD SDI arayüz içine gömülü olan Dolby E sinyali algılacak, video frame’mine göre hizalayarak (Dolby E Header alignment) sesi ve videosu tamamen senkronlanmış gömülü HD SDI çıkış sağlayacaktır.											
+5.11.4    En az bir adet HD/SD SDI video girişe ve en az 2 adet HD/SD SDI video çıkışa sahip olacaktır.											
+5.11.5    Giriş video sinyalinde problem olduğunda son iyi karede donma (freeze) özelliği bulunacaktır.											
+5.12      UP\DOWN Çevirici											
+5.12.1    Çeviricilerin video girişileri ve çıkışları SMPTE 292M ve SMPTE 259M-C stadartlarına uygun olmalıdır.											
+5.12.2    Kart istendiğinde SD sinyalden HD sinyale çevirim yapabilecek (UP converter), istendiğinde HD											
+sinyali SD sinyale çevirebilecektir.											
+5.12.3    Down converter olarak konfigure edlidiğinde 720p/50 ve 1080i/50 formatlarındaki HD sinyali											
+SD 625/50 HZ sinyale çevirebilecektir.											
+5.12.4    UP converter olarak ayarlandığında SD 625/50 Hz video sinyalini (aynı anda biri seçilmek											
+üzere) HD 1080i/50 ve 720p/50 Hz HD sinyale çevirebilecektir.											
+5.12.5    Frame Senkronlayıcı özelliği olacak, referans girişine uygulanan “Black Burst” ya da “tri level sync” sinyaline göre video girişine uygulanan SDI sinyali senkronlayacaktır.											
+5.12.6    SMPTE 259M-C SD SDI video çıkışlar (Down convert edilmiş) ve SMPTE 292M standardındaki											
+HD SDI video çıkışlar (up convert edilmiş) aşağıdaki özelliklere sahip olacaktır. a.    Sinyal seviyesi           : 800mV											
+b.   Return loss                : > 15 dB											
+5.12.7    Teklif  edilen  çeviriciler  HD  SDI  Embedded  audio  giriş  kabul  edebilecek  ve  en  az  2  grup embedded audio desteği sağlayacaktır.											
+5.12.8    Video üzerinde up ya da down çevirim işlemi yapıldığında, audio sinyal çıkışta video sinyali											
+üzerine  bindirilirken  gerekli  gecikmeler  tolere  edilerek,  dudak  senkronizasyonu  (Lip  sync)											
+sağlanacak şekilde embedded olarak çıkışa aktarılacaktır.											
+5.12.9    Gelen SDI sinyalindeki AFD (Active Format Description) verisini okuyabilme ve SDI çıkış üzerine											
+SMPTE 2016 standardında tanımlandığı şekilde AFD verisini yazabilme özellikleri olacaktır.											
+5.12.10  Çeviricilerin ARC (Aspect ratio converter) özelliği olacak ve çıkış 16:9 letterbox, 14:9 letterbox,											
+4:3 (center crop, cut ya da pan scan) ve anamorphic olarak ayarlanabilecektir.											
+5.12.11  HD’den (ITU 709) SD’ye (ITU 601) ve SD’den HD’ye renk uzayı çevrimi (ITU 709 ve ITU 601)											
+(color space conversion) yapabilecektir.											
+5.12.12  Aşağıda  bulunan  video  kontrollerden  en  az  bir  satırdakini  (ilgili  satırdaki  tüm  kontrolleri)											
+yapmak mümkün olacaktır. d.   RGB kazanç											
+e.   Y/Cb/Cr kazançları, Y/Cb/Cr ofsetleri, Hue ayarları											
+f.    Luminans kazancı, Krominans kazancı, Black Level ve hue ayarları											
+5.13      HD Up/Down/Cross Çevirici											
+5.13.1    Teklif edilen çeviricilerin video giriş ve çıkışları SMPTE 259M SMPTE 292M ve SMPTE 424M’ye uygun olmalıdır.											
+5.13.2    Teklif edilen çeviriciler en az bir 3G/HD/SD SDI girişe ve en az iki adet 3G/HD/SD SDI çıkışa sahip olacaktır.											
+5.13.3    Çeviriciler üzerinde HD 1080p/50, HD 1080i/50, HD 720p/50 sinyalleri arasındaki aşağıdaki tüm											
+kombinasyonlarda yüksek kalitede çapraz çevrim mümkün olacaktır.											
+Video Giriş						Video Çıkış					
+HD 1080p/50						HD 1080i/50					
+HD1080p/50						HD 720p/50					
+HD 1080i/50						HD 720p/50					
+HD 1080i/50						HD 1080p/50					
+HD 720p/50						HD 1080i/50					
+HD 720p/50						HD1080p/50					
+5.13.4    Çeviriciler üzerinde SD 625/50 sinyali ile HD 1080p/50, HD 1080i/50, HD 720p/50 sinyalleri											
+arasında aşağıdaki kombinasyonlarda yüksek kalitede UP ve Down çevrim mümkün olacaktır.											
+“UP Çevrim İşlemi											
+Video Giriş			Video Çıkış								
+SD 625i/50			HD 1080i/50								
+SD 625i/50			HD 720p/50								
+SD 625i/50			3G 1080p/50								
+DOWN Çevrim işlemi											
+Video Giriş					Video Çıkış						
+HD1080i/50					SD 625i/50						
+HD 720p/50					SD 625i/50						
+3G 1080p/50					SD 625i/50						
+5.13.5    Frame Senkronlayıcı özelliği olacak, referans girişine uygulanan “Black Burst” ya da “tri level											
+sync” sinyaline göre video girişine uygulanan SDI sinyali senkronlayacaktır.											
+5.13.6    Çevrimler sırasında standart resim boyutu oranı (aspect ratio) ayarlamaları (16:9, 4:3, vs..)											
+yapmak mümkün olacaktır.											
+5.13.7    Teklif  edilen  çeviriciler  HD  SDI  Embedded  audio  giriş  kabul  edebilecek  ve  en  az  2  grup embedded audio desteği sağlayacaktır.											
+5.13.8   Video üzerinde up, down ya da cross çevirim işlemi yapıldığından, audio sinyal çıkışta video sinyali  üzerine  bindirilirken  gerekli  gecikmeler  tolere  edilerek, dudak  senkronizasyonu  (Lip sync) sağlanacak şekilde embedded çıkış verecektir.											
+5.13.9     Gelen HD ve SD SDI sinyalindeki AFD (Active Format Description) bilgisini okuyabilme ve SDI											
+çıkış üzerine AFD verisini yazabilme özellikleri olacaktır.											
+5.13.10  Aşağıda bulunan video kontrollerden en az bir satırdakini (o satırdaki tüm kontrolleri) yapmak mümkün olacaktır.											
+a.    RGB kazanç											
+b.   Y/Cb/Cr kazançları, Y/Cb/Cr ofsetleri, Hue ayarları											
+c.    Luminans kazancı (Y), Krominans kazancı (Chroma), Black Level ve hue ayarları											
+5.14   SD ve HD Frame Rate Çevirici											
+5.14.1    Teklif edilen çeviricilerin SMPTE 259M-C ve SMPTE 292M’e uygun en az birer adet video giriş											
+ve çıkışı olacaktır.											
+5.14.2    Teklif edilen çeviriciler girişe uygulanan SD 525i 59.94 Hz sinyali 625i 50 Hz’e ve 625i 50 Hz sinyali 525i 59.94 Hz SD sinyale çevirebilecektir.											
+5.14.3    Teklif edilen çeviricilerin aşağıdaki HD video frame formatları arasındaki çevrimleri yapmaları											
+mümkün olacaktır.											
+a.   1080i 50 Hz                    1080i 59.94Hz											
+b.   1080i 59.94 Hz              1080i 50 Hz											
+c.    720p 50                          720p 59.94 Hz											
+d.   720p 59.94                     720p 50 Hz											
+5.14.4    En az 8 kanal embedded Audio desteği olacaktır. Çıkıştaki embedded (gömülü) ses sinyali video ile senkron olacaktır.											
+5.14.5    Çevirici kart tipinde ya da ayrı cihaz olarak önerilebilecektir.											
+5.15   Multiviewer Tip 1											
+5.15.1    Teklif edilen multiviewer sisteminin markası, modeli belirtilecek ve teknik şartnamede istenen											
+özellikleri nasıl sağladığı konusuna açıklık getirmek üzere kullanılan kartların adları ve sayıları											
+bilgileri de kapsayacak şekilde açıklayıcı bilgi verilecektir.											
+5.15.2    Anakumanda Merkezi Kontrol odasında kullanılacaktır.											
+5.15.3    Anakumanda Merkezine yeni monitör rafı yaptırılacaktır. Monitör rafında 12 adet 55” LCD											
+monitör bulunacaktır.											
+5.15.4    Monitörlerden 3 tanesinin her biri 6’ya bölünecek şekilde toplam 18 sabit kaynak tarafından beslenecektir. Bu kaynaklar mevcut durumdaki VDA çıkışlarından alınacaktır.											
+5.15.5    Geriye kalan 9 monitörün her biri ise 12’ye bölünerek kullanılacak olup, toplam 108 kaynak görüntülenebilecektir. Bu kaynaklar mevcut durumdaki VDA çıkışlarından alınacaktır.											
+5.15.6    Dolayısıyla  teklif  edilecek  olan  multiviewer  cihazı  18  sabit  kaynaktan  3  Monitörü  6’ya bölünmüş şekilde ve 108 sabit kaynaktan 9 monitörü 12’ye bölünmüş şekilde görüntüleyebilecektir.											
+5.15.7    Teklif edilen multiviewer sistemi teknik şartnamenin resim monitörleri 5.15.4 bölümündeki											
+55” Renkli LCD (TFT) Monitör ile çalışacak olduğundan, uygun arayüzde teklif edilecektir.											
+5.15.8    Multiviewer sisteminin video girişleri HD SDI (SMPTE 424 M 3Gbit/s, SMPTE 292M 1.5 Git/s)											
+ve SD SDI (259M-C 270 Mbit/s) sinyallerini otomatik olarak algılayarak kabul edecektir.											
+5.15.9    Multiviewer sistemi 1920x1080p 50Hz HD, 1920x1080i 50 hz HD, 1280x720p 50 HD ve SD											
+720x576i 50hz SD formatlarında sinyalleri görüntüleyebilecektir.											
+5.15.10  Her bir çıkış en az 1920*1080 çözünürlüğünü destekleyecektir.											
+5.15.11  Teklif edilecek multiviewer kart tipi olup video matriks kasasına konulabileceği gibi, kart tipi olup kendi kasasında çalışan ayrı bir ünite olarak da teklif edilebilir. Ayrı cihaz kasasında teklif edilmesi  durumunda  kartın  takılacağı  kasalar  redundant  güç  kaynağı  ile  birlikte  teklif edilecektir.											
+5.15.12  İlgili  video  monitörler  Anakumanda  Kontrol  odasında  ve  multiviewer  cihaz  kasası  cihaz odasında konumlandırılacağından, gerekli olan dönüştürücü ve uzatma aparatları (kablo, konektör, dönüştürücü, vs. ) yüklenici tarafından sağlanacaktır.											
+5.15.13  Multiviewer cihazının video çıkış ekran ayarları (monitörlenen giriş sayısı, her bir girişin ekran boyutu ve düzeni vb.) kullanıcı tarafından değiştirilebilecektir.											
+5.15.14 Ekran üzerine sayısal ve analog saat bindirme mümkün olacaktır. Bu saat, sistem saatiyle tetiklenebilecektir (Dışardan zaman bilgisi almak için LTC girişi bulunacaktır).											
+5.15.15  Çoklu  bölünmüş  ekran  üzerinde  her  bir  HD\SD  SDI  video  kaynağı  için  en  az  8  adet  ses											
+göstergesi olacaktır.											
+5.16   Multiviewer Tip 2											
+5.16.1    Teklif edilen multiviewer sisteminin markası, modeli belirtilecek ve teknik şartnamede istenen											
+özellikleri nasıl sağladığı konusuna açıklık getirmek üzere kullanılan kartların adları ve sayıları											
+bilgileri de kapsayacak şekilde açıklayıcı bilgi verilecektir.											
+5.16.2      Bu ihale kapsamında 4 adet Devamlılık reji kurulacaktır.											
+5.16.3    Her  bir  Devamlılık  rejisi  için  kaynakların  görüntülenmesinde  Multiviewer  sistemi kullanılacaktır. Cihaz harici bir kasa içinde olduğunda yedek güç kaynağı da sağlanacaktır. Dahili olarak matriks kasasına konulduğunda ise, bu kasada yedekli güç kaynağı mutlaka bulunacaktır.											
+5.16.4      Her  bir  rejide   3’er  adet  55”   LCD  monitör  bulunacaktır.   Devamlılık  rejilerindeki   55” monitörlerde devamlılık masalarının kontrol panellerinden seçilecek kaynaklar görüntülenecektir.											
+5.16.5      Multiviewer sisteminin video girişleri HD SDI (SMPTE 424 M 3Gbit/s, SMPTE 292M 1.5 Git/s)											
+ve SD SDI (259M-C 270 Mbit/s) sinyallerini otomatik olarak algılayarak kabul edecektir.											
+5.16.6      Multiviewer sistemi 1920x1080p 50Hz HD, 1920x1080i 50 hz HD, 1280x720p 50 HD ve SD											
+720x576i 50hz SD formatlarında sinyalleri görüntüleyebilecektir.											
+5.16.7      Her bir reji için 3 tane minimum 55” LCD monitör teklif edilecektir. Bu monitörlerin herbiri duruma göre 4’e bölünecek şekilde kullanılacak olup, mönitörün birinin arızalanması durmunda diğer iki mönitör 6’ya bölünerek de kullanılabilecektir. Dolayısıyla toplamda 12 adet kaynak aynı anda görüntülenebilecektir. Görüntülenmek istenen 12 kaynaktan iki ya da											
+üç tanesi sabit kaynaktır. Diğerleri ise video matriks ve devamlılık masalarından seçilebilen											
+kaynaklardır.											
+5.16.8      Multiviewer sistemi 12 kaynakdan Devamlılık masasının kontrol paneli preset busındaki tuş											
+sayısı kadarıyla senkron çalışacabilecektir.											
+5.16.9      Teklif edilen Multiviewer sistemi devamlılık masası kontrol paneli üzerinde bulunan preset bus’la senkron çalışacak ve preset busa seçilen kaynaklar otomatik olarak multiviewer sisteminde tally ve kaynak isimleriyle birlikte görüntülenecektir.											
+5.16.10    Devamlılık Masası video matriks sisteminin tüm kaynaklarına erişebilir olduğundan devamlılık masası kontrol paneli üzerinden seçilen tüm kaynaklar multiviewer sisteminde hiçbir kaynak sınırlaması olmadan görüntülenebilecektir.											
+5.16.11    Multiviewer sisteminde aynı anda görüntülenecek kaynak sayısı en az ana kumanda masası											
+kontrol paneli üzerindeki preset bus’daki kaynak tuş sayısı kadar olacaktır.											
+5.16.12    4 ayrı reji görüntülemesi birbirinden bağımsız olacak şekilde yapılandırılacak, her rejideki her video monitöre devamlılık masası kontrol paneli ile seçilen tüm kaynaklar seçilebilir olacaktır.											
+multiviewer sistemi yapılandırılacaktır.											
+5.16.13  Monitörlerden  birinin  arızalanması  durumunda  bu  monitördeki  görüntüler  diğer monitörlerden herhangi birine aktarılacak, bu durumda aktarılan monitör yeniden bölünerek											
+çalışabilecektir.											
+5.16.14    Multiviewer sistemi dinamik UMD ve tally özelliğine sahip olacak ve seçilen kaynak isimleri görülecektir. Ayrıca statik olarak da metin yazılabilecektir.											
+5.16.15    Monitör   edilen   kaynaklardan   herhangi   biri   masa   çıkışına   seçildiğinde   UMD’ler   renk											
+değiştirecektir. (iki farklı rengi(kırmızı ve yeşil) gösterme kabiliyetine sahip olacak.)											
+5.16.16    Ekran üzerine analog ve sayısal saat bindirme mümkün olacaktır. Bu saat, sistem saatiyle tetiklenebilecektir (Dışardan zaman bilgisi almak için LTC girişi bulunacaktır).											
+5.16.17    Tek bir kaynağı birden fazla monitörlemek mümkün olacaktır.											
+5.16.18    Multiviewer sisteminde kullanılacak monitörler ile PGM, PVW ve yayın dönüşünü izlemek amaçlı Tvset firma tarafından yaptırılacak ve taslak çizimleri ekte verilen monitör rafına yerleştirilecek olup tüm tutturma aparatları firma tarafından sağlanacaktır.											
+5.16.19    Çoklu  bölünmüş  ekran  üzerinde  her  bir  video  kaynağı  için  en  az  8  adet  ses  göstergesi olacaktır.											
+5.16.20    Teklif edilecek multiviewer kart tipi olup video matriks kasasına konulabileceği gibi, kart tipi olup kendi kasasında çalışan ayrı bir ünite olarak da teklif edilebilir. Ayrı cihaz kasasında teklif edilmesi durumunda kartın takılacağı kasalar redundant güç kaynağı ile birlikte teklif edilecektir.											
+5.16.21  İlgili video monitör Devamlılık rejilerde ve multiviewer cihaz kasası cihaz odasında konumlandırılacağından, gerekli  olan  dönüştürücü  ve  uzatma  aparatları  (kablo, konektör,											
+dönüştürücü, vs. ) yüklenici tarafından sağlanacaktır.											
+5.17   Multiviewer Tip 3											
+5.17.1    Teklif edilen multiviewer sisteminin markası, modeli belirtilecek ve teknik şartnamede istenen											
+özellikleri nasıl sağladığı konusuna açıklık getirmek üzere kullanılan kartların adları ve sayıları											
+bilgileri de kapsayacak şekilde açıklayıcı bilgi verilecektir.											
+5.17.2    Eurovision Bağlantı Merkezi Kontrol odasında kullanılacaktır.											
+5.17.3    Eurovision Bağlantı Merkezi Kontrol odasına yeni monitör rafı yaptırılacaktır. Monitör rafında											
+6 adet 55” LCD monitör bulunacaktır.											
+5.17.4    6 adet monitörün her biri 9’a bölünerek kullanılacaktır. Kaynaklar ise 18 adet IRD çıkışı, 24 adet yeni matriks çıkışıdır.											
+5.17.5    Teklif  edilen  multiviewer  sistemi  dinamik  ve  statik  UMD  özelliği  bulunacaktır.  Sabit  olan											
+gelişlerde kaynak isimleri sabit olarak girilirken, video matriksten alınan kaynak isimleri ekrana yansıtılacaktır.											
+5.17.6    Monitör bölümlendirilmeleri video şemada verilen düzende olacak şekilde yapılacaktır.											
+5.17.7    Teklif edilen multiviewer sistemi teknik şartnamenin resim monitörleri 5.15.4 bölümündeki											
+55” Renkli LCD (TFT) Monitör ile çalışacak olduğundan, uygun arayüzde teklif edilecektir.											
+5.17.8    Multiviewer sisteminin video girişleri HD SDI (SMPTE 424 M 3Gbit/s, SMPTE 292M 1.5 Git/s)											
+ve SD SDI (259M-C 270 Mbit/s) sinyallerini otomatik olarak algılayarak kabul edecektir.											
+5.17.9    Multiviewer sistemi 1920x1080p 50Hz HD, 1920x1080i 50 hz HD, 1280x720p 50 HD ve SD											
+720x576i 50hz SD formatlarında sinyalleri görüntüleyebilecektir.											
+5.17.10  Her bir çıkış en az 1920*1080 çözünürlüğünü destekleyecektir.											
+5.17.11  Multiviewer cihazının video çıkış ekran ayarları (monitörlenen giriş sayısı, her bir girişin ekran boyutu ve düzeni vb.) kullanıcı tarafından değiştirilebilecektir.											
+5.17.12 Ekran üzerine sayısal ve analog saat bindirme mümkün olacaktır. Bu saat, sistem saatiyle tetiklenebilecektir (Dışardan zaman bilgisi almak için LTC girişi bulunacaktır).											
+5.17.13  Çoklu bölünmüş ekran üzerinde her bir video kaynağı için en az 8 adet ses göstergesi olacaktır.											
+5.17.14  Multiviewer cihaz kasası redundant güç kaynağı ile birlikte teklif edilecektir.											
+5.17.15  İlgili  video  monitörler  Eurovision  Bağlantı  Merkezi  Kontrol  odasında  ve  multiviewer  cihaz kasası cihaz odasında konumlandırılacağından, gerekli olan dönüştücü ve uzatma aparatları (kablo, konektör, dönüştürücü, vs. ) yüklenici tarafından sağlanacaktır.											
+5.18   Multiviewer Ünitesi Kontrol Paneli											
+5.18.1      Teklif edilecek multiviewer ünitelerinin uzaktan kontrolü için Birim Fiyat Teklif Cetvelinde yer											
+alan sayıda multiviewer kontrol paneli teklif edilecektir.											
+5.18.2      Söz konusu multiviewer kontrol paneli kurulacak cihaz konsollarına yerleştirilecektir.											
+5.18.3      Multiviewer ünitesi kontrol paneli ile birlikte daha önceden hazırlanan monitor layoutlar											
+çağrılabilecektir.											
+5.18.4      Teklif  edilecek  kontrol  paneli  ile  bu  ihale  kapsamında  teklif  edilen  herbir  multiviewer cihazının ayrı ayrı kontrolü mümkün olacaktır.											
+5.19   Resim Monitörleri ve Aksesuarları											
+5.19.1      Genel											
+a.    Önerilecek teçhizat ITU-R, EBU standartlarına uygun olacaktır.											
+b.   Her bir monitör için kullanım kitabı sağlanacaktır.											
+c.    Her tip teçhizat için 1’er adet ölçü-bakım kitabı verilecektir.											
+d.   Teçhizatın giriş ve çıkış video konnektör tipleri BNC olacaktır.											
+e.   SDI girişler SMPTE 424, SMPTE 292M ve SMPTE 259M-C standardına uyumlu olacaktır.											
+f.    23”-24”  PGM  ve  PVW  Monitörlerinde  2  renk  rahatça  görünür  büyüklükte  tally  ışığı											
+olacaktır.											
+g.    HD monitörlerin hangi formatları destekledikleri belirtilecek ve HD özelliği herhangi bir											
+şifreye  ihtiyaç  duymaksızın  her  zaman  kullanılabilir  durumda  açık  olacaktır.  Monitör											
+üzerinde bulunan bütün özellikler aktif ve kullanılabilir durumda (şifresiz) olacaktır. h.   Teklifle birlikte önerilecek teçhizata ait broşür ve kataloglar verilecektir.											
+i.     Tüm remote kontrol kabloları, güç kabloları ve konnektörler sağlanacaktır. j.     Güç konnektörleri European tip olacaktır.											
+k.    Teklif  edilen  monitörlerin  her  birinden  1  adet  numune  gerekli  görüldüğünde  demo amacıyla firma tarafından değerlendirme aşamasında temin edilecek ve TRT teknik elemanları tarafından bilfiil kullanılarak test edilecektir. Bu test sonucu değerlendirmede etkili olacaktır.											
+l.     Tüm monitörler broadcast kalitesinde 7x24 çalışmaya uygun olacaktır.											
+5.19.2      17” LCD Monitör											
+a.    Monitörler renkli flat panel 17” LCD (TFT) olacaktır.											
+b.   Monitörler rack’a monte edilebilecek şekilde teklif edilecektir. c.    Aşağıdaki teknik şartlar sağlanacaktır:											
+Çözünürlük                           : en az 1280x768 olacaktır. Parlaklık                                : 240 cd/m² (en az )olacaktır.											
+Görme açısı yatayda           : en az +,- 80º, dikeyde en az +,- 80º											
+Tepki süresi                          : en fazla 8 ms olacaktır. Color number                      : Minimum 16 milyon											
+d.   17” monitörlerde en az 1 adet analog PAL kompozit video (loop-through veya loop out											
+çıkışlı) girişi ve 2 adet HD/SD-SDI (1 giriş loop-through özellikli veya loop out çıkışlı) girişi bulunacaktır.											
+e.   Monitörlerlerin fiziksel boyutları 16:9/16:10/15:9 oranı formatında olacaktır. 4:3 formatı											
+seçilebilir olacaktır.											
+f.    Monitörlerin   ön   panelinde   veya   menülerinde   renk,   parlaklık   ve   kontrast   ayarları											
+bulunacaktır. Monitör ayarları ayrı bir kontrol ünitesiyle yapılmayacaktır.											
+g.    Off-tube odaları için 8 adedinde embedded sesi dinlemek için dahili hoparlör ve kulaklık girişi bulunacaktır.											
+5.19.3      23”-24” LCD Monitör											
+a)   24’’ Renkli LCD (TFT) Monitörler monitör rafı için askı aparatı ile birlikte monitör raflarına monte edilebilecek şekilde teklif edilecektir. Fiziksel boyutları 16:9 veya 16:10 veya 15:9 oranında olacaktır.											
+b)   Monitörler flat panel LCD (TFT) olacaktır.											
+c)    Teklif edilecek monitörlerde tally ışığı olacaktır.											
+d)   24’’ monitörlerde en az 1 adet analog PAL kompozit video (loop-through veya loop out											
+çıkışlı)  girişi  ve  2  adet  HD/SD-SDI  (1  giriş  loop-through  veya  loop  out  özellikliı)  girişi bulunacaktır.											
+e)   Monitörlerin   ön   panelinde   veya   menülerinde   renk,   parlaklık   ve   kontrast   ayarları											
+bulunacaktır. Monitör ayarları ayrı bir kontrol ünitesiyle yapılmayacaktır. f)    Aşağıdaki teknik şartlar sağlanacaktır:											
+Çözünürlük en az             : 1920x1080 olacaktır.											
+Parlaklık                            : en az 330 cd/m² olacaktır. Kontrast oranı                  : en az 800:1 olacaktır.											
+Görme açısı                      : yatayda en az +,- 80º, dikeyde en az +,- 80º olacaktır.											
+Tepki süresi                      : en fazla 14 ms olacaktır. Color Number                  ::min 16 Milyon											
+5.19.4      55” LCD (TFT) Monitör											
+a)   Devamlılık,  Eurovision  ve  Anakumanda  Rejilerinde  kullanılacak  kaynak  monitörleri  55”											
+boyutlarında olacaktır;											
+b)   Monitörler flat panel LCD (TFT) olup, askı aparatı ile monitör raflarına monte edilebilecek											
+şekilde teklif edilecektir.											
+c)    Monitörlerde en az 1 analog PAL kompozit video girişi ve 1 HD/SD-SDI girişi bulunacaktır.											
+d)   Monitörlerin   ön   panelinde   veya   menülerinde   renk,   parlaklık   ve   kontrast   ayarları											
+bulunacaktır. Monitör ayarları ayrı bir kontrol ünitesiyle yapılmayacaktır.											
+e)   Monitörlerin ekran fiziksel boyutları 16:9/15:9 veya 16:10 oranı formatında olacaktır. f)    Aşağıdaki teknik şartlar sağlanacaktır:											
+Çözünürlük en az                                       : 1920 X 1080 olacaktır.											
+Maksimum Parlaklık                                  : en az 450 cd/m² olacaktır. Kontrast oranı                                             : en az 4000:1 olacaktır.											
+Görme açısı                                                 : yatayda en az 178º, dikeyde en az 178º olacaktır.											
+g)   En az 8 kanal Embedded Audio seviye göstergesi olacaktır.											
+5.19.5      Referans Monitörü											
+a)     Grade-1 (Class-A) veya eşdeğeri kalitede refererence monitörü teklif edilecektir.											
+b)      Monitörler masa üzerinde kullanılabilecek şekilde aparatlarıyla birlikte teklif edilecektir.											
+c)      Teklif  edilecek  monitörün  en  az  2  adet  SMPTE  424M,  SMPTE  292M,  SMPTE  259M											
+standardına uyumlu 3G/HD/SD SDI video girişi olacaktır.											
+d)     Teklif edilecek monitör LCD panel ya da OLED olacaktır.											
+video sinyalleri ile çalışacaktır.											
+f)      Teklif  edilecek  monitörün;  renk,  video  giriş  seçme  vb  kontrolleri  monitör  üzerinden yapılabilecektir. Eğer bu sağlanamıyor ve söz konusu kontroller için ayrı bir  kumanda											
+ünitesi gerekiyorsa bu kumanda ünitesi her bir monitör için ayrı ayrı sağlanacaktır.											
+g)     Monitör en az aşağıdaki özellikleri sağlayacaktır:											
+Çözünürlük: 1920*1080											
+Screen Size (Diagonal): 16”-21” Panel Drive: RGB 10 Bit (True 10 bit)											
+5.20   Multi Format 3G/HD/SD Video ve Ses Sinyal Analizörü Tip 1											
+5.20.1      Cihazın SMPTE 424M, 292M ve SMPTE 259M-C standartlarına uygun iki adet HD/SD SDI ve 2											
+adet PAL kompozit girişi olacaktır.											
+5.20.2      Aynı anda iki video kaynağı ile ilgili ölçümler ekranda görüntülebilecektir. (1 Analog ve 1											
+HD/SD, 2 adet HD\SD video kaynağı). Bu girişler A\B kanalı olarak seçilebilecektir.											
+5.20.3      HD ve SD sinyaller otomatik olarak algılanacaktır.											
+5.20.4      SMPTE 274M ve SMPTE 296M standartlarına göre 1080p/50, 1080i/50 ve 720p/50 sinyal formatlarında ölçümler yapılabilecektir. Bu sinyal formatları ekranda otomatik olarak algılanarak gösterilecektir.											
+5.20.5      Teklif  edilen  multiformat analizörler SMPTE 424M,  SMPTE 292M  ve  SMPTE  259M-C  SDI											
+sinyalleri için Eye pattern ölçümü yapılabilecek ve jitter değeri gösterilebilecektir.											
+5.20.6      Sinyal analizörü üzerinde video sinyali ile referans sinyali arasındaki gecikme ölçülebilecektir.											
+5.20.7      Teklif edilecek sinyal analizörleri, Waveform, Vector, Gamut, Ses (Audio), Video (Picture), Timing ve Data Analiz ölçümlerini dahili XGA TFT Renkli LCD display üzerinde tam ekran ve bölünmüş çoklu ekranda (en az dörde bölünmüş olarak) gösterebilecektir.											
+5.20.8      Real-time  alarm  özelliği  olacaktır.  Ayarlanabilen  limitler,  zaman  bildirimi  ve  peak  değer bilgileri raporlanabilecektir.											
+5.20.9      Video monitör için çıkışı olacaktır.											
+5.20.10    Ethernet ve USB girişi olacaktır.											
+5.20.11    Cihazın harici (Black Burst veya Tri –Level Sync) referans girişi bulunacaktır.											
+5.20.12    Teklif edilen cihazların bir adedi için 3Gbit\s HD\SD Colour Bar test pattern üretmek mümkün olacaktır.											
+5.20.13    Cihaz 19” raka monte edilebilecektir. Gerekli kit teklif edilecektir.											
+5.20.14    SDI  içinde  gömülü  16  ses  kanallını  (embedded  audio),  analog,  sayısal  (AES/EBU),  Dolby											
+E/Dolby D/Dolby D+ formatlarındaki ses ölçülüp monitör edilebilecektir.											
+5.20.15    Cihazın test ve ölçüm amaçlı en az 1 adet stereo analog ses (1 adet A/B kanalı), 4 adet											
+AES/EBU sayısal ses girişi olacaktır.											
+ses çıkışı olacaktır. Bu çıkışlara stereo veya surround ses yönlendirilebilecektir.											
+5.20.17    Cihazın kulaklık çıkışı olacaktır ve seçilen ses dinlenebilecektir.											
+5.20.18    Cihazın, SDI girişinden gelen 16 kanal gömülü (embedded) ses, en az 1 adet analog ses girişinden gelen L/R veya 2 mono kanallı ses, en az 4 adet AES/EBU sayısal ses girişlerinden gelen 8 kanallı ses sinyalleri için 16 kanala kadar ses seviyesini gösteren bar göstergesi olacaktır.											
+5.20.19    AES ya da video sinyali içine gömülü (embedded audio) Dolby E, Dolby Digital (AC-3), Dolby											
+Digital Plus formatındaki ses sinyalleri dekode edilebilecek, sinyal seviyeleri ölçülebilecek ve											
+Dolby veri analizi yapılabilecektir.											
+5.20.20    Cihazın Dolby E senkronizasyon testi için “guard band meter” özelliği olacaktır. Dolby kodlu sinyal için video sinyal ile “line position” testi yapılabilecektir.											
+5.20.21    Cihaz ile ITU-R-1770 ve/veya EBU R128 standartlarına uygun olarak loudness ölçümleri için											
+Loudness meter özelliği olacaktır.											
+5.20.22    Loudness analizi için en az 30 saat veri saklama ve bu veriyi harici USB flash diske kopyalama											
+özelliği olacaktır.											
+5.20.23    HD-SDI video sinyalindeki VANC metadata ve Dolby metadata bilgisi kontrol edilebilecektir.											
+5.20.24    Cihaz aşağıdaki ses teknik özelliklerini sağlayacaktır.											
+a. Analog Giriş                            : dengeli (balanced), XLR-3											
+b. Maximum Giriş Seviyesi       : +24dBu c. Giriş Empedansı                    : >20kΩ											
+d. Sayısal Ses Giriş/Çıkış           : AES3 dengeli (balanced) veya AES3-id (unbalanced)											
+5.21      Multi Format 3G/HD/SD Video ve Ses Sinyal Analizörü Tip 2											
+5.21.1    Kurulacak olan 3 adet Devamlılık rejilerinde kullanılacaktır.											
+5.21.2    Cihazın SMPTE 424M, 292M ve SMPTE 259M-C standartlarına uygun iki adet HD/SD SDI ve 2											
+adet PAL kompozit girişi olacaktır.											
+5.21.3    Aynı anda iki video kaynağı ile ilgili ölçümler ekranda görüntülebilecektir. (1 Analog ve 1											
+HD/SD, 2 adet HD\SD video kaynağı). Bu girişler A/B kanalı olarak seçilebilecektir.											
+5.21.4    HD ve SD sinyaller otomatik olarak algılanacaktır.											
+5.21.5    SMPTE 274M ve SMPTE 296M standartlarına göre 1080p/50, 1080i/50 ve 720p/50 sinyal											
+formatlarında   ölçümler   yapılabilecektir.   Bu   sinyal   formatları   ekranda   otomatik   olarak algılanarak gösterilecektir.											
+5.21.6    Teklif  edilecek  sinyal  analizörleri  Waveform,  Vector,  Gamut,  Ses  (Audio),  Video  (Picture),											
+Timing ve Data Analiz ölçümlerini dahili XGA TFT Renkli LCD display üzerinde tam ekran ve bölünmüş çoklu ekranda (en az dörde bölünmüş olarak) gösterebilecektir.											
+5.21.7    Video monitör için çıkışı olacaktır.											
+5.21.8    Ethernet ve USB girişi olacaktır.											
+5.21.9    Cihazın harici (Black Burst veya Tri –Level Sync) referans girişi bulunacaktır.											
+5.21.10  Cihaz 19” raka monte edilebilecektir. Gerekli kit teklif edilecektir.											
+5.21.11  SDI embedded, Analog ve AES/EBU formatlarındaki ses ölçülüp monitör edilebilecektir. Analog											
+giriş için en az 2 kanal, AES/EBU ve embedded sinyal formatlarındaki girişler için en az 8 kanal sesin gösterilebildiği bar göstergesi olacaktır.											
+5.21.12  Cihazın dinleme (monitoring) amaçlı en az 4 adet AES/EBU sayısal ses çıkışı ve 8 adet analog											
+ses çıkışı olacaktır.											
+6.          SES TEÇHİZATI											
+6.1        Multiformat (ANALOG-AES/EBU-MADI) Audio Router											
+6.1.1      Teklif edilen multiformat audio router cihazının markası, modeli, giriş ve çıkış kartlarının model numaraları ve sayıları, crosspoint kartının modeli ve sayısı belirtilecektir.											
+6.1.2      Multiformat audio router, video router kasasından ayrı kasada/kasalarda veya modüler yapıda teklif edilecektir ve en az 32x32 Stereo Analog- 128x128 AES/EBU- 4x4 MADI (AES10 standardında, 48kHz örnekleme frekansında 64 mono kanallı) giriş ve çıkış özelliğine sahip olacaktır.  Audio  router  sistemi,  gelecekteki  ihtiyaçlar  için  genişleme  kapasitesine  sahip olacaktır.											
+6.1.3      Audio  router  cihazı  yayına  giden  sesin yönlendirilmesi  amacıyla  kullanılacağından  senkron tipte olacaktır ve minimum 24 bit ve 48kHz örnekleme frekansında çalışacaktır.											
+6.1.4     Audio router cihazı, farklı ses formatlarındaki (Analog, AES ve MADI) girişlerden gelen ses sinyallerini farklı ses formatlarındaki (Analog, AES ve MADI) çıkışlara yönlendirebilecek ve anahtarlama sırasında ve sonrasında seste bozulma, çatlama ve klik, çat, pat vb. herhangi bir ses ve senkron sorunu olmaksızın kullanılabilecektir. Bunun için uygun özellikte giriş, çıkış, crosspoint, kontrol vb. kartlar kullanılacak ve cihaz içi ve harici referans sinyal dağılımı uygun olacaktır.											
+6.1.5      Audio router cihazı, Dolby kodlu sinyalin bozulmadan iletilmesine uygun olarak tasarlanmış											
+olacaktır.											
+6.1.6      Audio router cihazında tüm stereo analog, AES ve MADI girişlerinden gelen ses kanalları mono olarak (mono breakaway, level modları vb. şekilde) kullanılabilecektir. Yani, AES ve stereo analog ses sinyallerinin L ve R kanalları birbirinden bağımsız olarak farklı çıkışlara yönlendirilebilecektir. Benzer şekilde router cihazına analog mono olarak giren bir ses AES L ve R kanallarından istenilene ya da her ikisine de yönlendirilebilecektir.											
+6.1.7      Audio  router  cihazında  mono,  stereo  ve  surround  PCM  kaynaklar  için  farklı   levellar											
+tanımlanabilecektir ve yeterli sayıda level özelliği olacaktır.											
+6.1.8      Audio router cihazı ile surround PCM kaynağı (3 AES), istenen surround PCM çıkışa (3 AES)											
+kontrol paneli üzerinden tek tuşla yönlendirilebilecek şekilde konfigürasyonu yapılabilecektir.											
+6.1.9      Audio router cihazının, sağ ve sol kanallar arasında mono mixing, swapping, L to both, R to both ve kazanç ayarı yapma ve faz çevirme (analog) özelliği olacaktır.											
+6.1.10    Cihazın AES ses giriş ve çıkışları, AES/EBU standardında 24bit, 48kHz, AES3 (110Ω, dengeli)											
+formatında olacaktır.											
+6.1.11    Cihazın AES ses girişlerinde Sample Rate Convertor (SRC) özelliği olacaktır. Cihazın girişlerinde											
+SRC özelliği yoksa harici çeviricilerle de sağlanabilecektir.											
+6.1.12    Cihazın MADI giriş ve çıkışları AES10 standardında olacaktır ve 48kHz örnekleme frekansında											
+64 kanallı en az 4 adet MADI girişi ve en az 4 adet MADI çıkışı olacaktır.											
+6.1.13    Cihazın MADI giriş ve çıkışları BNC, 75Ω tipte olacaktır, bağlantı koaksiyel kablo ile yapılacaktır.											
+6.1.14    Cihazın, harici senkronlama için gerekli video referans ve/veya AES referans (DARS) girişleri olacaktır.											
+6.1.15    Cihazın analog ses giriş ve çıkışları aşağıdaki teknik özellikleri sağlayacaktır:											
+a.            Frekans tepkesi           : ≤ ±0.3dB (20Hz-20kHz aralığında)											
+b.            Crosstalk                       : ≤ - 90dB											
+c.            A/D ve D/A çevirici      : 24 bit											
+6.1.16    Teklif edilen audio router, 7x24 çalışabilecek şekilde tasarlanmış olmalıdır ve redundant güç kaynağına (modüler yapıda ise tüm frameler için ayrı ayrı olacak şekilde) ve redundant kontrol kartına/cihazına sahip olacaktır. Güç kaynağında ve kontrol kartında/cihazında oluşacak herhangi bir arıza durumunda redundant güç kaynağına ve redundant kontrol kartına/cihazına otomatik geçiş özellikleri bulunacaktır ve arızalı modül değiştirilirken audio router cihazının/framelerinin kapatılmasına gerek olmayacaktır.											
+6.1.17    Teklif edilen audio router, aşağıda belirtilen şartlardan birini sağlayacaktır:											
+a.             Teklif   edilen   audio   router,   eğer   tüm   giriş   ve   çıkışlar   için   tek   bir   crosspoint kartına/kasasına  sahipse,  ana  crosspoint  kartının/kasasının  arızası  durumunda otomatik geçiş özellikli % 100 yedekli “redundant cross point” kartına/kasasına sahip olacaktır.											
+b.             Teklif  edilen  audio  router,  birden  fazla  crosspoint  kartına  sahip  olacak  şekilde  bir mimaride tasarlanmışsa, crosspoint kartlarından birinin arızası durumunda otomatik geçiş özellikli 1 adet redundant crosspoint kartı bulunucak ve ayrıca sistemdeki diğer crosspoint kartlarının arızalanması ihtimaline binaen geriye kalan crosspoint kartları sayısınca crosspoint kartı “spare” olarak teklif edilecektir.											
+6.1.18    Cihaz enerji kesinti olması halinde konfigürasyonu hafızasında tutma “source memory” özelliği olacaktır ve tekrar açıldığında en son programlanmış hali ile tekrar devreye girecektir.											
+6.1.19    Cihazın konfigürasyon ve uzaktan kontrol yazılımları olacaktır ve yazılımlar lisanslı verilecektir.											
+6.1.20    Cihazın uzaktan kontrol yazılımında, cihazda oluşabilecek arızaları gösteren arayüzü olacaktır.											
+6.1.21    Cihaz üzerinde kritik arıza durumlarını bildiren ışıklı göstergeleri olacaktır.											
+6.1.22    Audio router cihazı için teklif edilen tüm kontrol paneller aşağıdaki özellikleri sağlayacaktır:											
+a.            19” genişliğinde olacaktır.											
+b.            Kontrol panellerin butonları, atanan isimler/fonksiyonlar/level vb. tanımlamalar text											
+olarak   -etiketlemeye   ihtiyaç   olmaksızın-   otomatik   görünebilecek   şekilde   LCD											
+göstergeli olacaktır.											
+c.            Kontrol paneller üzerinde, fonksiyon özelliklerinin atanabileceği butonlar olacaktır.											
+d.            Kontrol paneller mono breakaway modda çalışabilecektir, gelen ses sinyalinin L ve R											
+kanalları farklı çıkışlara seçilebilecektir.											
+e.            Kontrol paneller stereo kaynağı (1 AES veya stereo analog giriş) istenen stereo çıkışa (1 AES veya stereo analog çıkış), benzer şekilde surround PCM kaynağı (3 AES giriş) istenen  surround  PCM  çıkışa  (3  AES  çıkış)  tek  tuşla  yönlendirebilecek  şekilde konfigüre edilebilecektir.											
+f.             Kontrol  paneller  ile  multiformat  audio  router  cihazının  analog,  AES,  MADI  tüm girişleri seçilebilir olacaktır. Kontrol paneller tüm girişleri seçme imkanı için page oluşturma mantığı ile çalışabilecektir, page’ler arası erişim panel üzerinde ileri/geri											
+şeklinde yapılabilecektir.											
+6.1.23    Teknik kontrol üniteleri için teklif edilecek teknik kontrol paneli üzerinde en az 48 adet LCD butonu ve LCD/OLED display/displayleri olacaktır veya Panel üzerinde en az 28 adet LCD buton ve  buna  ek  olarak  en  az  6  satırlık  durum  (status)  göstergesi  bulunacaktır.  Kontrol  panel istenirse XY panel olarak da konfigürasyonu yapılabilecektir.											
+6.1.24    Teklif edilecek 8’li multi-bus paneller ile audio routerin en az sekiz çıkışını kontrol etmek ve routerın  tüm  girişlerinden istenilenleri  bu  çıkışlara yönlendirmek  için  kullanılacaktır.  Panel											
+üzerinde source, destination ve fonksiyon için en az 32 adet LCD butonu olacaktır.											
+6.1.25    Teklif edilecek XY kontrol paneli istenilen girişi istenilen çıkışa seçmek için kullanılacaktır.											
+Kontrol paneli üzerinde en az 24 adet LCD butonu ve destination, source ve level vb. gösteren											
+LCD/OLED display/displayler olacaktır.											
+6.1.26    Cihaz  kasası  19”  raka  monte  edilebilir  tipte  olacaktır.  Cihazın  yüksekliği  “RU”  olarak belirtilecektir.											
+6.2        Voice-over ve Audio Processor Ünitesi											
+6.2.1      Amaç: Voice-over ve audio processor ünitesi, video router cihazından yönlendirilerek gelen video sinyalinin gömülü ses kanallarındaki doğal ses (efekt) ile, harici ses girişlerinden ya da video girişinden gelen sinyalin gömülü ses kanallarındaki spiker sesinin, işbu şartnamede ve ekteki iş akış şemasında belirtilen şekilde işlenerek yayına hazır hale getirilmesi amacıyla kullanılacaktır.											
+6.2.2      Voice-over ve audio processor ünitesi; cihaz kasasına takılan tipte tek kart veya raka monte edilebilir tipte cihaz (birçok kartın kaskad bağlandığı çözümler kullanılmayacaktır) ve raka monte edilebilir tipte kontrol panelinden oluşacaktır.											
+6.2.3      Voice-over ve audio processor ünitesinin en az 1 adet SD/HD-SDI girişi, en az 1 adet SD/HD-SDI											
+çıkışı, en az 2 adet AES/EBU (AES) ses girişi ve en az 4 adet AES/EBU (AES) ses çıkışı ve referans girişi olacaktır.											
+6.2.4      Voice-over ve audio processor ünitesi AES ses giriş ve çıkışları AES/EBU 24 bit, 48 kHz sayısal ses, AES3 veya AES3id standardında olacaktır.											
+6.2.5     Voice-over ve audio processor ünitesi, gelen video sinyalinin formatını otomatik olarak algılayacaktır. Hem SD hem de HD video formatında çalışabilecektir, video giriş ve çıkışları aşağıdaki standartları sağlayacaktır:											
+a.    SMPTE 259M standardında 270Mbps SD SDI video sinyali,											
+b.   SMPTE 424M, SMPTE 292M standardında 3 Gb/s ve 1.5Gb/s HD SDI video sinyali c.    SMPTE 299M/272M-A embedded audio											
+6.2.6      Voice-over  ve  audio  processor  ünitesi, video sinyalinde  gömülü  16 ses  kanalı  (embedded audio) ve en az 2 adet AES sayısal ses girişinden gelen 4 ses kanalı olmak üzere toplam en az											
+20 ses kanalından istenenler teknik şartnamede ve ekteki iş akış şemasında belirtilen şekilde işlenerek ve/veya istendiğinde herhangi bir işlem yapılmaksızın doğrudan video çıkışına ve 4 adet AES çıkışına yönlendirilebilecektir.											
+6.2.7      Voice-over ve audio processor ünitesi ile aşağıdaki işlemler yapabilecektir:											
+a.    de-embed,											
+b.   input routing/selector, c.    Dolby E/D/D+ decod, d.   Audio processor,											
+e.   Voice-over,											
+f.    Loudness Kontrol,											
+g.   Dolby E encod, (2 adet ünite için)											
+h.   output routing/selector i.     re-embed											
+De-embedder özelliği:											
+6.2.8      Voice-over ve audio processor ünitesi SDI girişindeki video sinyali de-embed edilerek 16 kanal gömülü ses işbu şartnamede istenen şekilde kullanılabilecektir.											
+Input routing/selector özelliği:											
+6.2.9      Voice-over  ve  audio  processor  ünitesinde  de-embed  edilen  16  ses  kanalı  ve  2  adet  AES											
+girişlerinden gelen ses kanalları mono kanal olarak herhangi bir işlem yapılmaksızın istenen ses											
+çıkış kanallarına doğrudan yönlendirilebilecektir ve aynı zamanda internal bus/DSP kanallarına da yönlendirilerek kullanılabilecektir.											
+Dolby E decod özelliği:											
+6.2.10    Voice-over  ve  audio  processor  ünitesinde  de-embed  edilen  16  kanal  gömülü  ses  içinde bulunan veya AES girişlerinden gelen Dolby E/D/D+ kodlu ses sinyalini dekodlanarak PCM olarak işlenmek üzere internal bus/DSP kanallarına yönlendirilebilecektir.   İstendiğinde PCM olarak ve/veya Dolby E/D/D+ kodlu olarak da, bozulmadan doğrudan çıkış kanallarına da yönlendirilebilecektir.											
+Audio processor özelliği:											
+6.2.11    Voice-over ve audio processor ünitesinde yapılacak işlemler için en az 8 adet internal bus/DSP kanalı olacaktır ve en az 8 adet ses kanalına birbirinden bağımsız olarak en az -20dB - +20dB aralığında kazanç ayarı yapılabilecektir.											
+6.2.12    Video girişinden gelen gömülü ses kanallarından veya harici ses girişinden (AES) gelen spiker sesini voice over yapmadan (efekt ile mikslemeden) önce en az 2s’ ye kadar geciktirme, ses seviye ayarı yapma ve spiker kanalını “mute” etme özelliği olacaktır. Bu işlemleri spiker sesini taşıyan kanala yapacak diğer kanallar bu ayarlardan etkilenmeyecektir.											
+6.2.13   Voice-over ve audio processor ünitesinin stereo ses sinyalini surround yapma (up-mix) ve surround gelen ses sinyalini stereo yapma özelliği (down-mix) olacaktır. Bu sinyallere voice- over  işlemi  yapabilme  ve  çıkışta  istenen  gömülü  ses  kanalına  yönlendirilebilme  imkanı olacaktır.											
+Voice-over özelliği:											
+6.2.14    Voice-over ve audio processor ünitesinin video girişinden gelen gömülü ses kanallarından veya											
+harici ses girişinden (AES) gelen ses sinyali voice-over sesi olarak kullanılabilecektir.											
+6.2.15   Voice-over işlemi, hem 5.1 surround program hem de stereo program sesine aynı anda yapılabilecektir.											
+6.2.16    Voice-over işleminde; gömülü ses kanallarından veya harici ses girişinden gelen spiker sesi 5.1 surround program sesine sadece C, LR veya LCR olarak seçilerek ve 2.0 stereo program sesinin tek veya her iki kanalına da mikslenebilecektir.											
+6.2.17  Yukarıda voice-over özelliği için istenen işlemler doğrudan veya presetler hazırlanarak yapılabilecektir.											
+Loudness Kontrol özelliği:											
+6.2.18    Voice-over ve audio processor ünitesi ile ITU-R-1770 ve EBU R128 standartlarına uygun olarak loudness kontrolü yapılabilecektir.											
+Dolby E encod özelliği (2 adet ünite için):											
+6.2.19    Voice-over ve audio processor ünitesinde işlemi tamamlanan surround ve stereo ses kanalları re-embed edilmeden önce istendiğinde Dolby E/D/D+ kodlanabilecektir. Bu özellik sadece 2 adet voice-over ve audio processor ünitesine ilave edilecektir.											
+Output routing/selector özelliği:											
+6.2.20    Ünitenin  internal  bus/DSP  kanallarına  istenen  işlemler  yapıldıktan  sonra  video  sinyaline embed edilmeden once 16 ses kanalına ve AES çıkışlara PCM olarak veya Dolby E/D/D+ kodlu olarak (2 adet ünite için) yönlendirilebilecektir.											
+Re-embedder özelliği:											
+6.2.21    Voice-over   ve   audio   processor   ünitesi   SDI   video   sinyaline   re-embed   edilmek   üzere yönlendirilen 16 ses kanalını SDI video sinyaline embed ederek video çıkışına verecektir.											
+Metadata özelliği:											
+6.2.22    Voice-over ve audio processor ünitesi SMPTE 2020 standardındaki VANC metadata bilgisini destekleyecektir ve HD-SDI çıkışındaki video sinyaline VANC metadata bilgisini yerleştirecektir.											
+Lip-sync özelliği:											
+6.2.23    Voice-over ve audio processor ünitesi, video ve ses senkronizasyonu (lip sync) için A/V latency											
+özelliği olacaktır. Bunun için gerekli ise video delay özelliğine sahip olacaktır. Uzaktan Kontrol özelliği:											
+6.2.24    Voice-over  ve  audio processor  ünitesinin  PC  ve  kontrol  paneli  üzerinden  uzaktan  kontrol											
+imkanı olacaktır.											
+6.2.25    Voice-over ve audio processor ünitesinin fonksiyonlarını kontrol etmek üzere rack tipi kontrol paneli teklif edilecektir. Her bir kontrol paneli ile 1 adet voice-over ve audio processor ünitesi kontrol edilecektir. İstendiğinde; her bir kontrol paneli ile en az 2 adet voice-over ve audio processor ünitesi de kontrol edilebilecektir.											
+6.2.26    Kontrol paneli üzerinde; hızlı erişim imkanı sağlamak amacıyla voice-over ve audio processor											
+ünitesinin istenen fonksiyonlarının (örneğin; voice-over ses kazanç ayarı, delay ayarı, voice- over sesini yayından almak amacıyla“mute” etme özelliği vb.) atanabileceği en az 8 adet buton ve/veya potları olacaktır. Voice-over sesini (spiker sesini) “mute” etme, seviyesini ayarlama ve gecikme  verme  işlemlerinin  her  biri  kontrol  paneldeki  tuşlara  atanarak  kolayca yapılabilecektir.											
+6.2.27    Cihazın otomatik geçişli yedek güç kaynağı olacaktır.											
+6.2.28    Ünite  ve  kontrol  paneli  19”  raka  monte  edilebilir  tipte  olacaktır.  Yüksekliği  “RU”  olarak											
+belirtilecektir.											
+6.3        Interkom Sistemi											
+6.3.1     TRT Haber ve Spor Yayınları Dairesi Başkanlığı hizmetleri için halihazırda; master interkom matriksi  olarak  Yeni  Haber  Stüdyosu  (eski  Kerim  Aydın  Erdem  Stüdyosu)  cihaz  odasında bulunan  Clearcom  Eclips  interkom  matriksi,  slave  matriks  olarak  ARİM  Stüdyosu  cihaz odasında bulunan Clearcom Eclips interkom matriksi kullanılmaktadır.											
+6.3.2      EBM   Sistemi   kapsamında;   Eurovision   Bağlantı   Merkezindeki   koordinasyon   hizmetlerini sağlamak amacıyla mevcut sisteme slave olarak dahil olmak üzere 1 adet interkom slave matriks sistemi ve 6 adet kontrol paneli teklif edilecek ve tüm bağlantıları ve konfigürasyonu EBM koordinasyon ihtiyaçlarına uygun olarak yüklenici tarafından yapılacaktır.											
+6.3.3      Teklif edilen interkom slave matriks ve kontrol panelleri ile master ve mevcut diğer slave matriks sistemlerinin tüm kaynakları haberleşebilecek, mevcut interkom matriks sistemine direk bağlanacak (herhangi bir ara cihaz ve ilave bağlantı olmaksızın)  ve  birebir  uyumlu											
+çalışacaktır.  Bunun için  slave  matriks  cihazına  ait gerekli  tüm  kartlar  ve  bağlantılar  (slave matriks  ve  ilave  edilecek  kontrol  paneller  için  gerekli  kontrol  kartları  vb.)  teklife  dahil edilecektir ve sağlanacaktır.											
+6.3.4      Teklif edilen interkom slave matriks sisteminin konfigürasyon yazılımı lisanslı olacaktır ve EBM											
+kontrol  odasında  kurulacak  olan  sistem  bilgisayarına  yüklenecektir,  istendiğinde  bu  PC											
+üzerinden kontrol edilmesi mümkün olacaktır. Ayrıca, lisanslı yazılım CD/DVD ortamında da											
+Kurum’a teslim edilecektir.											
+6.3.5      Teklif edilen interkom slave matriks, mevcut Clearcom master matriks kasası üzerinde bulunan fiber kartı ile master matrikse bağlanacaktır. Teklif edilen interkom slave matriks üzerinde, master matrikse bağlantı için gerekli özellikleri sağlayan fiber kartı olacaktır ve bağlantılar yüklenici tarafından yapılacaktır.											
+6.3.6      Teklif edilen interkom slave matriksin AES10 standardında; 24 bit, 48 kHz - 64 kanallı MADI											
+giriş ve 64 kanallı MADI çıkış özelliği olacaktır.											
+6.3.7      Cihazın  MADI  giriş  ve  çıkışları  BNC,  75Ω  tipte  olacaktır,  bağlantıları  koaksiyel  kablo  ile yapılacaktır.											
+6.3.8      Bu  MADI  giriş  ve  çıkışları,  multiformat  audio  router  cihazının  MADI  giriş  ve  çıkışlarına bağlanarak kullanılacaktır.											
+6.3.9      MADI kartı üzerinde referans sinyal, örnekleme frekansı, kanal sayısı, hata vb. için led durum göstergeleri olacaktır.											
+6.3.10    MADI kartı için harici referans girişi olacaktır ve ana referans sinyaline tetiklenecektir.											
+6.3.11    Teklif  edilen  interkom  slave  matriksin  kontrol  panel  bağlantıları  vb.  için  en  az  32  portu olacaktır.											
+6.3.12    Teklif  edilen  interkom  slave  matriks  yedek  CPU  ünitesine  ve  yedek  güç  kaynağına  sahip olacaktır.											
+6.3.13    Teklif edilen interkom kontrol panellerinde 24 kaynak tuşu olacaktır ve shift tuşu ile toplam 48 kaynakla haberleşme imkanı olacaktır. Bu tuşlara tüm matriks sistemindeki (mevcut ve ilave edilecek matriks sisteminin tamamı) kaynaklar istenen şekilde atanabilecek ve panel üzerinde											
+çağrı isimleri görünebilecektir.											
+6.3.14    Teklif edilen interkom kontrol panellerinin ana bağlantısı cihaz üzerinden olacaktır, kontrol											
+panelleri seri olarak loop bağlantı yapılabilecektir.											
+6.3.15    Kontrol   panellerine   atanan   kaynaklardan   istenenler   (örneğin;   TCC/EBU   hattı)   sürekli dinlenebilecektir, istenenler bas/konuş olarak konfigure edilebilecektir.											
+6.3.16    Mevcut matriks sisteminin AUX girişlerine bağlı Haber ve Spor Stüdyoları ses reji AUX çıkışları											
+açıldığında gelen ses kurulacak interkom slave matriks sisteminde de duyulabilecektir.											
+6.3.17    Kontrol paneller üzerinde kaliteli gooseneck mikrofon ve hoparlör olacaktır.											
+6.4        Commentator Sistemi											
+6.4.1      Commentator Sistemi, 8 adet 19” raka monte edilebilir tipte ana ünite (base-station) ile 8 adet spiker ünitesi (commentator box) ve 26 adet çift taraflı, kapalı tipte mikrofonlu kulaklıktan oluşacaktır.											
+6.4.2    Commentator Sistemi, ana ünite ile spiker ünitesi uygun kablo ile 500m’ ye kadar kullanılabilecektir. Bunun için uygun koaksiyel veya fiber veya Ethernet giriş-çıkış özelliği olacaktır.											
+6.4.3      Eurovision Bağlantı Merkezi kontrol odasına monte edilecek olan ana ünite ile Haber ve Spor Yayınları Dairesi Başkanlığı Zemin katındaki off-tube odalarına yerleştirilecek spiker üniteleri koaksiyel veya fiber veya Ethernet kablo ile bağlanacaktır.											
+6.4.4      Commentator Sistemi; 8 adet ana ünite ile 8 adet spiker ünitesinin bağlantısı için  8 adet ana ve 2 adet yedek olmak üzere toplam 10 hat çekilecektir. Bu hatlar Eurovision Bağlantı Merkezi Cihaz Odası ve Haber ve Spor Yayınları Dairesi Başkanlığı Zemin katındaki Video Server Cihaz Odasına yerleştirilecek CTP’ ler üzerinden bağlanacaktır.											
+6.4.5      Commentator Sistemi için gerekli tüm kablo, konnektör, CTP ve bağlantılar firma tarafından sağlanacaktır.											
+6.4.6      Commentator Sistemi CO-ORD giriş-çıkışları, teknik ve program koordinasyonunu sağlamak için Multiformat Audio Router MADI hattı üzerinden sistemle birlikte kurulacak olan Clearcom Slave  Matrikse  yönlendirilecektir  ve  matriks  konfigürasyonu  işletme  ihtiyacını  karşılayacak											
+şekilde yapılacaktır.											
+6.4.7      Ana Ünite (Base-Station)											
+a.     Ana ünite üzerinde en az efekt sesi için 1 adet IS (International Sound) girişi, yabancı spiker sesi vb. amaçla kullanılmak üzere kılavuz ses için 2 adet Guide girişi, intercom amaçlı kullanılmak											
+üzere 1 adet CO-ORD girişi ve 1 adet CO-ORD çıkışı ile 1 adet PGM-OUT çıkışı olacaktır.											
+b.     Koordinasyon devreleri olacak, spiker ünitesi ile karşılıklı çağrılar gönderilebilecektir.											
+c.      Ana   ünite   üzerinden   kaynakların   (International   Sound,   Guide   1-2   vb.)   seviye   ayarları											
+yapılabilecektir.											
+d.     Tüm ses giriş/çıkışları mono analog ses formatında olacaktır.											
+6.4.8      Spiker Ünitesi (Commentator Box)											
+a.     Spiker ünitesi, en az 3 adet spikerin/yorumcunun aynı anda kullanımına uygun olacak ve herbiri için seviye ayarları mümkün olacaktır.											
+b.     Spiker ünitesinin en az 3 adet mikrofon girişi ve en az 3 adet kulaklık çıkışı olacaktır. c.      Mikrofon girişlerinden biri “line” girişine uygun olacaktır.											
+d.     Phantom power özelliği her bir kaynak için seçilebilecektir.											
+e.     Spiker ünitesi üzerinde harici mix çıkışı olacaktır.											
+f.      Koordinasyon devreleri olacak, karşılıklı çağrılar gönderilebilecektir.											
+g.     Enerjisini kablo üzerinden (ana üniteden) alacaktır.											
+h.     Mikrofon girişleri için XLR3 pin, kulaklıklar çıkışları da ¼” stereo phone jack tipte olacaktır.											
+i.      Spiker kulaklıklarına mix, efekt (IS), kılavuz (guide 1-2), CO-ORD seslerini verme imkanı olacaktır ve bu seslerin herbiri için; kulaklığın istenen kanalına (L-both-R) panlanması ve seviyelerinin ayarlanması için spiker ünitesi üzerinde gerekli anahtar ve potlar olacaktır.											
+6.4.9      Kapalı Tipte Mikrofonlu Kulaklık											
+a.     Kulaklık dinamik, yastıklı ve ‘circumaural/supraaural -closed’ kapalı tipte ve çift taraflı olacaktır. b.     Kulaklık ergonomik, başlığı ayarlanabilir tipte olacaktır.											
+c.      Mikrofon; esnek goosneck tipte olmalıdır ve mümkünse iki taraflı kullanılabilmelidir. d.     Mikrofonlu kulaklıkların rengi siyah olacaktır.											
+e.     Mikrofonlu kulaklıkların ağırlıkları maksimum 275 gram olacaktır.											
+f.      Mikrofonlu kulaklıkların, mikrofon ve kulaklık giriş-çıkış empedansları ve konnektör tipleri teklif edilen spiker ünitesi ile uyumlu olacaktır.											
+g.     Mikrofonlu kulaklıkların teknik özellikleri aşağıdaki gibi olacaktır :											
+   Kulaklık için :											
+- Frekans aralığı         : 30Hz-18kHz											
+- Hassasiyeti               : ≥ 90 dB SPL/mW											
+   Mikrofon için :											
+- Kapsülü tipi              : dinamik											
+- Polar diyagramı       : super-cardioid veya hyper-cardioid											
+- Frekans aralığı         : 60Hz-16kHz											
+6.5        Dual Telefon Hibrit											
+6.5.1      Dual telefon hibrit cihazı canlı yayınlarda kullanıma uygun olacaktır.											
+6.5.2      Cihaz en az iki kanallı (dual) olacaktır.											
+6.5.3      Telefon hat sayısı en az 2 olacaktır.											
+6.5.4      Cihazın giriş ve çıkışları “line“ seviyede kullanılabilecektir.											
+6.5.5      Cihaz üzerinden giriş/çıkış kazanç ayarları yapılabilecektir.											
+6.5.6      Alınan ve gönderilen sinyaller cihaz üzerinden izlenebilecektir.											
+6.5.7      Seçilebilir otomatik cevap/bağlantıyı kesme ve ducking özelliği olacaktır.											
+6.5.8      Konuşma  sırasında  konuşmayı  telefon  hattını  kesmeden  bırakıp  alma  (HOLD/RELEASE)											
+özelliğine sahip olacaktır.											
+6.5.9      Cihaz 19”raka monte edilebilir tipte ve 1RU yüksekliğinde olacaktır.											
+6.5.10    Gerekli tüm aksesuarları sağlanacaktır.											
+6.5.11    Aşağıdaki teknik özellikleri sağlayacaktır:											
+a.    Ses giriş ve çıkış formatı                                   : Analog ses											
+b.   Giriş Empedansı                                                :  10 k (Dengeli)											
+c.    Çıkış Empedansı                                                :  600 Ohm(Dengeli)											
+d.   Telefon Veriş/Alış Frekans Tepkesi                :250Hz-3,4kHz(3dB)											
+e.   Giriş çıkış konnektörleri                                   : XLR-3 tipte (dengeli)											
+SES TEST ve MONİTÖRLEME CİHAZLARI											
+6.6        Identification Sound Loop Cihazı											
+6.6.1      Identification Sound Loop cihaz seti; aşağıdaki özellikleri sağlayan nitelikte 1 veya birden fazla sayıda cihaz olarak teklif edilebilecektir.											
+6.6.2     Identification Sound Loop cihaz seti, ses kanalını tanıtma sinyalini (voice ID) kaydetmek ve kaydedilen sesi sonsuz döngüde (loop) okutmak amacıyla kullanılacaktır.											
+6.6.3      Cihaz setinin toplam en az 16 kanal sesi (mono kanal olarak) kayıt yapma özelliği olacaktır. Bu kayıtlar için gerekli mikrofon dahili veya harici olarak sağlanacaktır. Cihaz seti birden fazla sayıda cihaz ile sağlanıyorsa her bir cihaz için ayrı dahili veya harici mikrofonu olacaktır.											
+6.6.4      Herbir kanal için minimum 20 saniye kayıt yapma özelliği olacaktır. Ayrıca, dahili ton sinyali											
+özelliği olacaktır.											
+6.6.5      Kayıt yapılan sesin örnekleme frekansı minimum 12 kHz olacaktır.											
+6.6.6      Ayrı  zamanlarda  kayıt  yapılan  16  kanal  voice  ID  ses  aynı  anda,  sonsuz  döngüde  (loop)											
+okutulabilecektir.											
+6.6.7      Cihazın REC/PLAY buton veya anahtarı olacaktır.											
+6.6.8      Cihaza kaydedilen sesler dahili hoparlör ve/veya kulaklık ile dinlenebilecektir.											
+6.6.9      Cihaz veya cihazlar 19” raka monte edilebilir tipte olacaktır.											
+6.7        Audio Test Sinyal Jeneratörü ile Dijital Audio Referans Sinyal (DARS) Jeneratörü ve Dağıtıcı Sistemi											
+6.7.1      Audio Test Sinyal Jeneratörü ve Dijital Audio Referans Sinyal (DARS) Jenaratörü ve 19” raka takılabilir tipte tek cihaz veya ayrı ayrı cihazlar olarak veya kart tipi olarak cihaz kasası ile birlikte sağlanabilecektir.											
+6.7.2      Dijital  Audio  Referans  Sinyal  (DARS)  Jeneratörü,  sistemde  sağlanan  ve  gelecekte  ilave edilebilecek olan sayısal ses cihazlarının referans gereksinimini karşılamak amacıyla kullanılacaktır.											
+6.7.3      Kurulacak sistemin audio referans ihtiyacını karşılayacak şekilde yeterli sayıda DARS dağıtıcı; cihaz veya kart tipi olarak sağlanacaktır. Cihaz ve kart tipi dağıtıcı, DARS sinyalini dağıtmak için gerekli özellikleri sağlayacak şekilde üretilmiş olmalıdır.											
+6.7.4      Gelecekte   sisteme   ilave   edilecek   sayısal   ses   cihazlarının   DARS   referans   gereksinimini karşılamak amacıyla en az 8 adet DARS sinyali 4 adedi balanced, 4 adedi unbalanced tipte dağıtım için hazır bırakılacaktır.											
+6.7.5      Dijital Audio Referans Sinyal (DARS) Jeneratörü, AES11 standardında DARS ve world clock ses referans sinyallerini üretecektir.											
+6.7.6      Dijital   Audio   Referans   Sinyal   (DARS)   Jeneratörünün   harici   video   referans   sinyalinden tetiklenmek için video referans girişi olacaktır.											
+6.7.7      Dijital Audio Referans Sinyal (DARS) Jeneratörünün DARS ve world clock için balanced ve/veya unbalanced çıkışı olacaktır. Gerekli balanced/unbalanced dönüştürücüler yüklenici tarafından sağlanacaktır.											
+6.7.8      Audio Test Sinyal Jeneratörü, sistem testi ve uluslararası hat testlerinde kullanılacaktır.											
+6.7.9      Audio Test Sinyal Jeneratörünün en az 1 adet stereo analog ve/veya AES sayısal ses çıkışı											
+olacaktır.											
+6.7.10    Jeneratör 20Hz-20kHz aralığında çeşitli frekanslarda ton sinyali üretebilecektir.											
+6.7.11    Jeneratör üzerinden test sinyalinin frekans ve seviye ayarı yapılabilecektir.											
+6.8        Rak Tipi MADI Audio Monitör											
+6.8.1      Rak tipi MADI Audio Monitör, Audio Router cihazının MADI çıkışının kontrol edilebilmesi için kullanılacaktır.											
+6.8.2      Cihazın AES10 standardında en az 1 adet MADI girişi olacaktır. Hem optik hem de BNC giriş											
+imkanı olacaktır. Cihazın reclocked MADI Optik ve BNC olarak en az 1 adet çıkışı olacaktır.											
+6.8.3      Cihaz 48 kHz örnekleme frekansında toplam 64 kanalın ses seviyesini; en az 8 kanallı gruplar halinde cihaz üzerinde gösterebilecektir.											
+6.8.4      Bargraph için metre tipleri ve bunların alignment seviyeleri değişik standartlarda (VU, DIN, BBC PPM, EBU PPM vb.) seçilebilir olacaktır.											
+6.8.5      Cihazın volume kontrollu dahili hoparlörleri olacaktır.											
+6.8.6      Kulaklık çıkışı olacaktır.											
+6.8.7      Cihaz 1RU yüksekliğinde olup, 19” raka monte edilebilecektir.											
+6.9        Voice-over ve audio processor ünitesi için Rak Tipi Audio Test ve Monitörleme Cihazı											
+6.9.1      Rak Tipi Test ve Monitörleme Cihazı, voice-over ve audio processor ünitesinin video çıkışından gelen 16 gömülü ses kanalının test ve monitörlenmesi, istenen kanalların cihazın dahili hoparlörlerine seçilerek dinlenebilmesi için kullanılacaktır.											
+6.9.2      Cihazın en az 2 adet SD/HD-SDI girişi olacaktır.											
+6.9.3      Cihaz gelen video sinyalinin formatını otomatik olarak algılayacaktır. Hem SD hem de HD video formatında çalışabilecektir, video giriş ve çıkışları aşağıdaki standartları sağlayacaktır:											
+a.    SMPTE 259M standardında 270Mbps SD SDI video sinyali,											
+b.   SMPTE 424M, SMPTE 292M standardında 3 Gb/s ve 1.5Gb/s HD SDI video sinyali											
+6.9.4      Cihaz, HD/SDI sinyal içinde embed edilmiş olarak gelen PCM (AES/EBU) ses sinyallerini aynen ve Dolby E/D/D+ kodlu ses sinyallerini decod ederek mono/stereo/surround olarak monitörleme işlemlerini gerçekleştirebilecektir.											
+6.9.5      Cihaz üzerinde dahili hoparlörler olacaktır. Ayrıca harici hoparlörler için en az 2 adet analog ses çıkışı olacaktır.											
+6.9.6      Hem  dahili  hem  de  harici  hoparlörlerin  kullanılması  için  monitor  matriks  fonksiyonunun olduğu bir monitör menüsü olacaktır. Bu özellik kullanılarak, monitör edilen ses sinyalleri dahili monitöre  ve/veya  harici  çıkışlara  seçilebilecektir.  Bu  çıkışların  ses  seviyesi  kontrolü  cihaz											
+üzerinden yapılabilecektir.											
+6.9.7      Harici  çıkış  seçimi  yapıldığında,  istenildiğinde,  dahili  monitör  sesi  kesilebilmeli  ya  da  ses seviyesi düşürülebilmelidir.											
+6.9.8    Mönitörlere  seçilen  sinyallerin  hangi  ses  kanalları  olduğu  cihaz  üzerinde  açıkça görülebilecektir.											
+6.9.9      16  kanalın  her  biri  ayrı  ayrı  ya  da  istenilen  kanallar  mix  yapılıp,  L/R  stereo  ve  mono formatlarında bu hoparlörlere seçilebilecektir.											
+6.9.10    Cihaz üzerinde 16 kanal ses gösteren bargraph ve Menu/Data görüntülemesinin yapılabildiği											
+displayler olacaktır.											
+6.9.11    16 kanal ses bargraph için metre tipleri ve bunların alignment seviyeleri değişik standartlarda											
+(VU, DIN, BBC PPM, EBU PPM vb.) seçilebilir olacaktır.											
+6.9.12    Cihazın  konfigürasyonunun  yapıldığı  menüleri  ve  ayarların  yapılıp,  saklanabildiği  ve  geri											
+çağrılabilen  kullanıcı  presetleri  olacak  ve  bunlar  programlanabilecektir.  İstenilen  presete basıldığında, bununla ilgili giriş sinyalindeki ses/data bilgileri görüntülenebilecektir.											
+6.9.13    Cihaz üzerinde data, metadata bilgileri ve sinyalle ilgili diğer parametreler display üzerinde görüntülenebilecektir.											
+6.9.14    Data  ekranı  üzerinde, kullanılan  preset adı  ve  numarası, seçilen giriş  sinyali  ve numarası, seçilen video sinyalinin formatı, ses sinyalinin formatı, ses sinyali Dolby encod edilmiş bir sinyal ise program konfigürasyonu (5.1, 7.1 vb.) ve kodlama modu, dialnorm değeri vb. bilgiler görülebilecektir.											
+6.9.15    HD/SDI içinde embed olarak gelen Dolby E/D/D+ sinyalleri otomatik olarak decode edilecek ve Left  Front,  Right  Front,  Center,  Lfe,  Left  Surround,  Right  Surround  ve  sinyalin  içinde barındırdığı metadataya göre yapılacak downmix sinyali (Lt/Rt veya Lo/Ro) olarak bargraph displaylerde  görülebilecektir.  Bunlar  dahili  hoparlörlere  istenilen  formatlarda (surround/stereo veya mono) seçilebilecektir.											
+6.9.16   Surround formatında gelen ses sinyalinin gösterimi ve monitor çıkışlarına seçiminde kanal sıralaması SMPTE standardına uygun olarak yapılabilecektir.											
+6.9.17    ITU-R-1770 ve EBU R128 standartlarına uygun olarak loudness ölçümleri yapabilecektir.											
+6.9.18    Seviye kontrollu kulaklık çıkışı olacaktır.											
+6.9.19    Cihazın bu şartnamede istenen özelliklerde çalışabilmesi için tüm gerekli özel arabirim, yazılım, kablo, konnektör ve diğer aksesuarlar sağlanacaktır.											
+6.9.20    Cihaz, 19” raka monte edilebilir tipte olacaktır. Yüksekliği “RU” olarak belirtilecektir.											
+6.9.21    Cihaz aşağıdaki özellikleri sağlayacaktır:											
+a.    Frekans Tepkesi                    : max. ±5dB; 80Hz-16kHz b.   Ses Basınç Seviyesi (SPL)     : ≥98dB (@0,6m)											
+6.10      Seçmeli Girişli Rak Tipi Audio Test ve Monitörleme Cihazı											
+6.10.1    Seçmeli Girişli Rak Tipi Test ve Monitörleme Cihazı, girişlerindeki ses sinyallerinin (Devamlılık Masası PGM, PRESET çıkışları, yayın dönüşü ve teknik kontrol) seçilerek hem dahili hoparlörlerden hem de harici hoparlör setinden volume kontrollu olarak dinlenmesi amacıyla kullanılacaktır.											
+6.10.2    Cihazın en az 2 adet SD/HD-SDI video ve en az 4 adet AES sayısal ses girişi olacaktır.											
+6.10.3   Cihazın yayın dönüşünü (DEMOD, uydu alıcısı) dinlemek için SPDIF formatında optik veya koaksiyel ses girişi olmalıdır.											
+6.10.4    Cihaz üzerinde dahili hoparlörler olacaktır. Ayrıca harici hoparlörler için en az 8 adet analog ses çıkışı olacaktır. Bu çıkışlar referans hoparlör setlerine bağlanarak dinleme amaçlı kullanılacaktır.											
+6.10.5    Cihaz gelen video sinyalinin formatını otomatik olarak algılayacaktır. Hem SD hem de HD video formatında çalışabilecektir, video giriş ve çıkışları aşağıdaki standartları sağlayacaktır:											
+a.    SMPTE 259M standardında 270Mbps SD SDI video sinyali,											
+b.   SMPTE 424M, SMPTE 292M standardında 3 Gb/s ve 1.5Gb/s HD SDI video sinyali											
+6.10.6    Cihaz, HD/SDI sinyal içinde embed edilmiş olarak gelen PCM (AES/EBU) ses sinyallerini aynen ve Dolby E/D/D+ kodlu ses sinyallerini decod ederek mono/stereo/surround olarak monitörleme işlemlerini gerçekleştirebilecektir.											
+6.10.7    Hem  dahili  hem  de  harici  hoparlörlerin  kullanılması  için  monitor  matriks  fonksiyonunun olduğu bir monitör menüsü olacaktır. Bu özellik kullanılarak, monitör edilen ses sinyalleri dahili monitöre  ve/veya  harici  çıkışlara  seçilebilecektir.  Bu  çıkışların  ses  seviyesi  kontrolü  cihaz											
+üzerinden yapılabilecektir.											
+6.10.8    Harici  çıkış  seçimi  yapıldığında,  istenildiğinde,  dahili  monitör  sesi  kesilebilmeli  ya  da  ses seviyesi düşürülebilmelidir.											
+6.10.9  Mönitörlere  seçilen  sinyallerin  hangi  ses  kanalları  olduğu  cihaz  üzerinde  açıkça görülebilecektir.											
+6.10.10 16 kanalın her biri ayrı ayrı ya da istenilen kanallar mix yapılıp, L/R stereo ve mono formatlarında bu hoparlörlere seçilebilecektir.											
+6.10.11  Cihaz üzerinde 16 kanal ses gösteren bargraph ve Menu/Data görüntülemesinin yapılabildiği displayler olacaktır.											
+6.10.12  Set-up menüsü kilitlenebilir olmalıdır.											
+6.10.13  Cihaz üzerinde preset çağırma vb. diğer işlemler için kullanılabilecek en az 10 adet butonu olacaktır.											
+6.10.14  16 kanal ses bargraph için metre tipleri ve bunların alignment seviyeleri değişik standartlarda											
+(VU, DIN, BBC PPM, EBU PPM vb.) seçilebilir olacaktır.											
+6.10.15  Cihazın  konfigürasyonunun  yapıldığı  menüleri  ve  ayarların  yapılıp,  saklanabildiği  ve  geri											
+çağrılabilen kullanıcı presetleri olacak ve bunlar programlanabilecektir.											
+6.10.16  Kullanıcı presetleri HD/SDI ve AES, optik girişleri için programlanabilecektir. İstenilen presete basıldığında, bununla ilgili giriş sinyalindeki ses/data bilgileri görüntülenebilecektir.											
+6.10.17 Cihaz üzerinde data, metadata bilgileri ve sinyalle ilgili diğer parametreler display üzerinde görüntülenebilecektir.											
+6.10.18  Data  ekranı  üzerinde, kullanılan  preset adı  ve  numarası, seçilen giriş  sinyali  ve numarası, seçilen video sinyalinin formatı, ses sinyalinin formatı, ses sinyali Dolby encod edilmiş bir sinyal ise program konfigürasyonu (5.1, 7.1 vb.) ve kodlama modu, dialnorm değeri vb. bilgiler görülebilecektir.											
+6.10.19  HD/SDI içinde embed olarak gelen Dolby E/D/D+ sinyalleri otomatik olarak decode edilecek ve Left  Front,  Right  Front,  Center,  Lfe,  Left  Surround,  Right  Surround  ve  sinyalin  içinde barındırdığı metadataya göre yapılacak downmix sinyali (Lt/Rt veya Lo/Ro) olarak bargraph displaylerde  görülebilecektir.  Bunlar  dahili  hoparlörlere  istenilen  formatlarda (surround/stereo veya mono) seçilebilecektir.											
+6.10.20 Surround formatında gelen ses sinyalinin gösterimi ve monitor çıkışlarına seçiminde kanal sıralaması SMPTE standardına uygun olarak yapılabilecektir.											
+6.10.21  ITU-R-1770 ve EBU R128 standartlarına uygun olarak loudness ölçümleri yapabilecektir.											
+6.10.22  Kulaklık çıkışı olacaktır.											
+6.10.23  Cihazın bu şartnamede istenen özelliklerde çalışabilmesi için tüm gerekli özel arabirim, yazılım, kablo, konnektör ve diğer aksesuarlar sağlanacaktır.											
+6.10.24  Cihaz, 19” raka monte edilebilir tipte olacaktır. Yüksekliği “RU” olarak belirtilecektir.											
+6.10.25  Cihaz aşağıdaki özellikleri sağlayacaktır:											
+a.    Frekans Tepkesi                    : max. ±5dB; 80Hz-16kHz b.   Ses Basınç Seviyesi (SPL)     : ≥98dB (@0,6m)											
+6.11      Teknik Kontrol için Rak Tipi Hoparlör Ünitesi											
+6.11.1    Rak tipi hoparlör ünitesi devamlılık rejileri teknik kontrol ünitesi çıkışlarının iki kanal (stereo)											
+olarak dinlenmesi amacıyla kullanılacaktır.											
+6.11.2    Ünite üzerinde, dahili olarak iki adet mid-range hoparlör (sol ve sağ kanallardan gelen orta ve yüksek frekanslar için) ve 2 adet woofer (sol ve sağ kanallardan gelen düşük frekanslar için) hoparlör olacaktır.											
+6.11.3    Volume ayarı ünite üzerinden yapılabilecektir.											
+6.11.4    Cihazın iki kanal (sol ve sağ) analog ses için dengeli, XLR-3 pin girişleri olacaktır.											
+6.11.5    Kulaklık çıkışı olacaktır.											
+6.11.6    Cihaz, yanındaki video monitörlerinden etkilenmemesi için, manyetik ekranlı olmalıdır.											
+6.11.7    Cihaz 1U yüksekliğinde olup, 19” raka monte edilebilecektir.											
+6.11.8    Aşağıdaki teknik özellikler sağlanacaktır:											
+a.    Frekans Tepkesi                    : max. ±7dB; 120Hz-16kHz b.   Ses Basınç Seviyesi (SPL)     : >85dB (@0,6m)											
+6.12      7.1 Surround Referans Hoparlör Seti ve Aksesuarları											
+6.12.1   7.1 Surround hoparlör seti; 5.1 surround ve 2.0 stereo sesi veya sadece 7.1 surround sesi dinlemek için kullanılacaktır; Left (L), Right (R), Center (C), Left Surround (Ls), Right Surround (Rs), Left Back Surround (LBs), Right Back Surround (RBs) için 7 adet aktif hoparlör ve bu hoparlörlere uygun 1 adet aktif subwoofer dan oluşacaktır ve analog ses girişli olarak teklif edilecektir.											
+6.12.2    L, R, Ls, Rs, LBs ve RBs hoparlörlerinin tüm özellikleri aynı olacak olup, center için kullanılacak olan hoparlör farklı teklif edilebilir. Center için teklif edilecek hoparlör farklı ise özellikleri belirtilecektir.											
+6.12.3    Bu hoparlörlerle uyumlu subwoofer teklif edilecektir.											
+6.12.4    ISO ve IEC standartlarına uygun aktif tipte ve en az 2 yollu olacaktır.											
+6.12.5    Hoparlörler minimum toplam 300W çıkış gücünde olacaktır.											
+6.12.6    Ses giriş hassasiyeti ayarlanabilecektir.											
+6.12.7    RF enterferansı önleyici özelliği ve aşırı yük koruma devresi olacaktır.											
+6.12.8    Analog ses giriş konnektörü XLR-3 pin, balanced tipte olacaktır.											
+6.12.9    Hoparlör koyu renkte olmalıdır.											
+6.12.10  Hoparlörlerin  yerleşimi  7.1  surround  hoparlör  yerleşim  prensiplerine  mümkün  olduğunca uygun olarak yüklenici tarafından yapılacak olup, bu iş için duvara ve monitor rafına asmak için uygun aparatlar ve/veya gerekli yerlerde hoparlör sehpası kullanılacaktır.											
+6.12.11  L, R, C, Ls, Rs, LBs, RBs hoparlörleri için aşağıdaki teknik özellikler sağlanacaktır:											
+a.    Frekans Tepkesi                    : max ±3dB; 50Hz-20kHz											
+b.   THD                                         :  % 1 (> 120Hz)											
+c.    Ses Basınç Seviyesi (SPL)     : 100dB@1m											
+6.13      Stereo Referans Hoparlör Seti ve Aksesuarları											
+6.13.1    ISO ve IEC standartlarına uygun aktif tipte ve en az 2 yollu bir set (L, R) olacaktır.											
+6.13.2    Hoparlörler minimum toplam 300W çıkış gücünde olacaktır.											
+6.13.3    Ses giriş hassasiyeti ayarlanabilecektir.											
+6.13.4    RF enterferansı önleyici özelliği ve aşırı yük koruma devresi olacaktır.											
+6.13.5    Analog ses giriş konnektörü XLR-3 pin, balanced tipte olacaktır.											
+6.13.6    Hoparlör koyu renkte olmalıdır.											
+6.13.7    Hoparlörlerin yerleşimi yüklenici tarafından yapılacak olup, bu iş için monitor rafına asmak için uygun aparatlar ve/veya gerekli yerlerde hoparlör sehpası kullanılacaktır.											
+6.13.8    Aşağıdaki teknik özellikler sağlanacaktır:											
+a.    Frekans Tepkesi                    : max ±3dB; 50Hz-20kHz b.   THD                                         :  % 1 (> 120Hz)											
+c.    Ses Basınç Seviyesi (SPL)     : 100dB@1m											
+6.14      Stereo Referans Kulaklık											
+6.14.1    Kulaklık, ses cihazlarının kulaklık çıkışlarından ses kontrolü amacıyla kullanılacaktır.											
+6.14.2    Kulaklık dinamik ve kapalı tipte olacaktır.											
+6.14.3    Kulaklık ses frekans aralığı en az 20Hz – 20kHz olmalıdır.											
+6.14.4    Kulaklık başlığı ayarlanabilir tipte olmalıdır.											
+6.14.5    Kulaklık bağlantı kablosu 1/4” - 1/8” stereo jack konnektörlü olacaktır ve konnektör adaptörü											
+ile birlikte verilecektir.											
+6.15      3-Pole Sayısal/Analog Ses Patch Paneli											
+6.15.1    Sayısal (AES/EBU) ve/veya analog ses ve data sinyallerinin bağlantısında aktarma paneli olarak kullanılacaktır.											
+6.15.2    2 sıra 32 ‘lik 3 pole bağlantı kapasitesine sahip olacaktır.											
+6.15.3    Sayısal patch panel full plugging olacaktır. Gerekli 3 pole plugları, analog, sayısal ses ve data sinyalinin ayırt edilebilmesi için 3 farklı renkte pluglar patch panelle birlikte sağlanacaktır.											
+6.15.4    Panelin arka bağlantısı ayrı bir kart üzerine lehimlenerek yapılacaktır ve gerekli kartlar patch panelle sağlanacaktır.											
+6.15.5    Patch panel  bağlantılarının tanımlanması için kaynak ve hedef  sıraları için ayrı ayrı etiket											
+şeritlerine sahip olacaktır.											
+6.15.6    Patch panel aşağıdaki teknik özellikleri sağlayacaktır:											
+a.    Sayısal Ses Formatı               : AES/EBU (AES3),110 Ohm, dengeli (balanced)											
+b.   Kanal Ayırması                      : >90dB@10kHz											
+c.    Anahtarlama Zayıflaması    : >90dB@10kHz											
+6.15.7    Panel 19” raka monte edilebilir tipte olacaktır.											
+6.15.8    Patch panele montajı yapılan kablolar için bağlantı çubuğuna sahip olacaktır.											
+6.15.9    Patch panellerle birlikte iki ucu patch panele uygun tipte konnektörlü uzatma (Patch coard)											
+kabloları verilecektir.											
+6.15.10  Patch Coard lar 40, 60 ve 90 cm boyutlarında her birinden 20 şer adet olmak üzere toplam 60 adet olarak verilecektir.											
+SES ÇEVRE BİRİMLERİ											
+6.16      AES/Analog Ses Çevirici											
+6.16.1    Çevirici dual olacaktır.											
+6.16.2    D/A çevirici kartı sayısal sesi (AES) analog sese çevirmek üzere kullanılacaktır.											
+6.16.3    Modüler ve kart tipi olacaktır. Gerekli cihaz kasası sağlanacaktır.											
+6.16.4    SNMP ya da benzer protokolla kontrolü mümkün olacaktır.											
+6.16.5    Aşağıdaki teknik özellikleri sağlayacaktır:											
+a.    Sayısal ses giriş formatı                                    : AES/EBU, 24 bit, 48 kHz											
+b.   Sayısal ses giriş empedansı ve konnektörü  :2 X75, unbalanced, AES3id veya 2X110Ω, balanced, AES-3											
+c.    Analog ses çıkışları                                            : 4X analog											
+d.   Analog ses çıkış empedansı                             : ≤100, dengeli											
+e.   Frekans Tepkesi                                                 : ≤±0,2dB(20Hz-20kHz)											
+6.17      Analog/AES Ses Çevirici											
+6.17.1    Çevirici tek kanal veya dual olabilecektir.											
+6.17.2    A/D ses çevirici kartı, stereo analog sesi, AES sayısal sese çevirmek üzere kullanılacaktır.											
+6.17.3    Modüler ve kart tipi olacaktır. Gerekli cihaz kasası sağlanacaktır.											
+6.17.4    Harici senkronlama için video referans ve/veya AES referans girişi olacaktır. Ayrıca, asenkron											
+çalışabilecektir. Referans girişlerinin ‘loop through’ çıkışları varsa belirtilecektir.											
+6.17.5    Giriş seviye kontrolü olacaktır.											
+6.17.6    SNMP ya da benzer protokolla kontrolü ve monitörlenmesi mümkün olacaktır.											
+6.17.7    Aşağıdaki teknik özellikleri sağlayacaktır:											
+a.    A/D conversion                     : 24 bit b.   Örnekleme frekansı             : 48 kHz c.    Sayısal ses çıkış formatı       : AES3											
+d.   Sayısal ses çıkış empedansı : 110 balanced AES-3 veya 75 unbalanced AES-3id e.   Analog ses girişleri               : stereo analog, dengeli											
+SİSTEM BİLGİSAYARI											
+6.18      Rak tipi Sistem Bilgisayarı											
+6.19.1    Sistem bilgisayarı, 19” raka takılabilir tipte ve maksimum 3RU yükseklikte olacaktır.											
+6.19.2   Cihaz odalarında kullanılacak olan 2 adet sistem bilgisayarından herbiri için rak sisteminde kullanıma  uygun,  çekmeceli  tipte  KVM  konsol;  minimum  17”  boyutunda  ve  minimum											
+1280x1024   çözünürlükte   LCD/LED   ekran,   klayyesi,   mouse,   bağlantı   aparatları   vb.   ile verilecektir.											
+6.19.3    EBM kontrol odasında kullanılacak olan 2 adet sistem bilgisayarından herbiri için masa üstü kullanıma  uygun  minimum  21,5”  boyutunda  ve  EBM  kontrol  odası  cihaz  konsolunun köşelerine yerleşebilecek büyüklükte ve 1920x1080 çözünürlükte LCD/LED ekran, klayye, mouse, bağlantı aparatları vb. verilecektir.											
+6.19.4    Sistem bilgisayarının kasası üzerinde yedek güç kaynağı olacaktır.											
+6.19.5    Windows 7 veya Windows 8 işletim sistemi lisanslı olarak temin edilecektir.											
+6.19.6    Sistem bilgisayarı minimum aşağıdaki özelliklere sahip olacaktır:											
+a.    2 adet Intel Xeon E5-2600 v2 serisi işlemci (minimum 10 çekirdek, 25M cache, 2.50 GHz)											
+veya eşdeğeri											
+b.   128 GB ECC Memory (Up to 512 GB)											
+c.    1 TB 7200RPM SATA Hard Drive											
+d.   Yukarıda belirtilen ekranları destekleyecek özellikte e.   DVD+/-RW Optical Drive											
+f.    Built-in Audio											
+g.    Dual Gigabit LAN											
+h.   2 adet USB port (harici ekstra)											
+i.     1 VGA/DVI											
+7.          KURULUM VE MONTAJ											
+7.1        Yüklenici TRT tarafından onaylanmış uygulama projelerine göre sistemin tüm montajını yapacaktır.											
+7.2       Sözleşme aşamasından sonra tüm cihazların yerleşim planları İdare ile yüklenici arasında yapılacak görüşmeler neticesinde kararlaştırılarak, yüklenici tarafından çizilerek, idarenin onayı alındıktan sonra uygulanacaktır.											
+7.3        Şartname ekinde verilmiş olan cihaz yerleşim plan taslağına uygun olarak monitor rafları, cihaz konsolu (anakumanda masası kontrol paneli, teknik yönetmen monitörleri,) monitor rafları yüklenici tarafından TRT onayı alındıktan sonra yapılacaktır.											
+7.4        Tüm reji odalarında ve kontrol merkezlerinde bulunan cihaz konsolu ve monitör raflarında kullanılacak tüm kablolar kablo kanallarından geçirilecektir.											
+7.5        Montaj mekanlarına yeni tava sistemi monte edilecektir.											
+7.6        Sistemin  her  yerinde  enerji  ve  veri  (video/audio/kontrol/ağ)  kabloları  farklı  tavalar  üzerinden taşınacaktır.											
+7.7        Cihaz odasına kurulacak raklar yüklenici tarafından sağlanarak, TRT nin isteği doğrultusunda TRT cihaz odasına yerleşimi yapılacaktır. Yüklenici teklif ettiği sistem için yeterli sayıda rak ünitesi verecektir. Bunun yanında mevcut Eurovision Bağlantı Merkezi’nde kullanılan (TRT tarafından sağlacak IRD vs.)											
+bunları raka monte edecek aparatlar yüklenici firma tarafından sağlanarak raka montajı yapılacaktır.											
+Video şemasında gösterilen ve akışta tanımlanan şekilde bu cihazların sisteme montajı yapılacaktır.											
+7.8        Cihaz odasına yerleştirilecek olan raklar 19” genişliğinde, 42U yüksekliğinde olacaktır.											
+7.9        Her rakta 2 adet 10 çıkışlı MDU (Main distribution unit) bulunacaktır. MDU’ larda, her biri 16 amperlik											
+2’ şer adet ana giriş anahtarı olacaktır. Her bir anahtara, 5 adet olmak üzere, erkek şase tipi IEC konnektörlü çıkış bağlanacaktır. Çıkışların herbiri sigortalı olacaktır. Cihazların ana ve yedek güç kaynakları, aynı raktaki farklı MDU’lardan ayrı ayrı beslenecektir. Sistem içerisinde kullanılacak MDU											
+ünitelerinde %20 oranında boş çıkış bırakılacaktır. Ayrıca tüm mekanlardaki konsollarda bulunacak, tüm cihazların enerji bağlantısı, konsollara yerleştirilecek olan MDU’lar üzerinden sağlanacaktır. Konsollarda  kullanılacak  olan  MDU’ların  tipleri  ve  bağlantı  prensibi  raklarda  kullanılanlarla   aynı olacaktır.											
+7.10      Raklardaki ve yayın konsolundaki boşluklar panellerle kapatılacaktır.											
+7.11     Rak yerleşiminde cihazlar arasında havalandırmayı sağlamak amacıyla ihtiyaca göre 1-2U boşluklar bırakılacaktır.											
+7.12      Tüm MDU’lara ve 3 amperin üzerinde besleme gerektiren cihazlara, enerji panosundan direkt hat											
+çekilecektir.											
+7.13      Sistemdeki  tüm  video, audio,  kontrol,  enerji  ve  ağ  switch  ile  cihazlar  arası  ağ  kabloları  yüklenici tarafından sağlanacak ve kablolamaları da yapılacaktır.											
+7.14      Kullanılacak video matriksin tüm video giriş ve çıkışları, devamlılık masasının tüm video giriş ve çıkışları ve İdarece gerek görülmesi halinde diğer video ve audio cihazları arası tüm geçişlerde VJF (audio ayrı taşınıyorsa audio jackfield da) kullanılacaktır. Kullanılacak tüm VJF’lerde ya %20 oranının da boş bırakılacaktır ya da aynı oranda boş (spare) jackfield sağlanacaktır.											
+7.15      Tüm sistemin video kablolaması SMPTE 424 M standardına uygun olarak yapılacaktır.											
+7.16      Kullanılacak  VJF’ler  microswitchli,  1RU   yüksekliğinde,  24  adet  çift  sıralı,  U-Link  tarzı   geçişler gerektirmeden HD SDI 3 Gb/s (video üzerine gömülü ses sinyali ile birlikte) sinyali geçirme özelliğine sahip olacaktır. Girişe veya çıkışa patch-cord takılınca sinyal kesilecek ve patch-cord üzerindeki sinyal yönlendirilmiş olacaktır.											
+7.17      VJF’ler  için  10  adet  90  cm  ve  10  adet  60  cm  Patch-Cord  sağlanacaktır.  Daha  sonra  patch  cord yapımında kullanılmak üzere teklif edilen VJF’lere ve kabloya uygun 20 adet konektör ile 20 adet Video Patch Plug to BNC (Female) adaptör sağlanacaktır.											
+7.18      Cihaz odası ile devamlılık rejileri, Eurovision kontrol merkezi ve Anakumanda kontrol merkezi arasında											
+çekilen video kablolar ile diğer yayın merkezlerinden gelen ve bu merkezlere çekilen kablolar cihaz raklarında CTP’lerden geçirilecektir. CTP panellerde kullanılacak BNC-I lar şaseden izoleli olacaktır											
+7.19      Video kablolamada kullanılan kablo ve konnektörlerin tamamı yüksek kaliteli ve HD SDI 3Gbit/s sinyale uygun olacaktır. Rak içi ve kısa mesafelerde (5 metreden az) kullanılan kablolar, 100 metre mesafede											
+1.5GHz de sinyal zayıflaması 45 dB den az olan, esnek, rak içi montaja uygun ve incelikte olacaktır. 5 metreden daha uzun olarak kullanılan kabloların, 100 metre mesafede 1.5GHz de sinyal zayıflaması 32 dB den az olacaktır.											
+7.20      Video  kabloların  tamamında  BNC  koruyucu  (sleeve)  kullanılacaktır.  Kullanılacak  koaksiyel  video kabloları, olası yangınlarda insanların en az seviyede zarar görmeleri için düşük duman yoğunluklu, alev geciktiricili ve halojen free özellikleri olacak biçimde teklif edilecektir ve bahsi geçen özelliklerle ilgili, IEC 60754, IEC 60332, IEC 61034 (veya uluslararası eşdeğerleri) standartlarına uygun olacaktır.											
+7.21      Sistem içerisinde kullanılacak VDA, De-embedder gibi kart tipi video teçhizatının birer çıkışı VJF de, birer çıkışı ise CTP de sonlandırılacaktır.											
+7.22      Sistem     topraklaması     uluslararası     standartlara     uygun     yapıda     olacaktır.     Topraklamadan											
+kaynaklanabilecek tüm sorunlar için gerekli her türlü önlem alınacaktır.											
+7.23      Hiçbir teknik cihaz binanın genel toprağına bağlanmayacaktır. Gürültüden arındırılmış teknik toprak											
+İdare tarafından tüm teknik alanlara dağıtılmış olacaktır.											
+7.24      Masalarda ve raklarda yüklenici teknik toprağı kullanacaktır.											
+7.25      Teknik toprağın cihazlara bağlanması ve topraklamanın tüm cihazlarda devam ettirilmesi yüklenicinin sorumluluğundadır.											
+7.26     Kablo numaratör tipi ve numaralama sistemi TRT’nin numaralama sistemi ile aynı olacak olup, numaralama sistemi yükleniciye TRT tarafından bildirilecektir.											
+7.27     Raklara yerleştirilen cihazlar ön tarafından bakıldığında soldan sağa ve yukarıdan aşağıya doğru numaralandırılacaklardır. Ayrıca her raka da bir numara verilecektir.											
+7.28      Raklarda bulunan jackfieldlar ön tarafından bakıldığında yukarıdan aşağıya doğru başlamak üzere A, B, C gibi harflerle sıralanacak ve her sıra kendi içinde soldan sağa 1, 2, 3, şeklinde numaralandırılacaktır.											
+7.29      Amplifikatörler bulunduğu rakın ve kasanın numarasını belirtecek şekilde numaralandırılacaktır.											
+7.30      Sistem  montajında  kullanılan  tüm  kablolar  için  uygun  boyutta,  direnç  renk  kodlu,  plastik  (PTV)											
+numaratör yüklenici tarafından sağlanacaktır ve kullanılacaktır.											
+7.31      Montaj öncesinde tüm detay şemalar (video/audio sistem, rak ve frame layout, kontrol şemaları vs) TRT’ye bildirilecektir. TRT sistemde değişiklik talebinde bulunursa, yüklenici bu değişikliği yapacaktır.											
+7.32      Montaj sonrasında, tüm şemalar (raklardaki cihaz yerleşim şemaları, kontrol, ağ, enerji şemaları dahil), sistemde kullanılan yazılımların orijinalleri ve oluşturulan veritabanları ve programlar en son şekli yazılı ve medya ortamında idareye teslim edilecektir.											
+7.33      Cihazların yerleşiminde gerekli rak sliding kitleri sağlanacak, İdare’nin gerek görmesi halinde rak sliding kitleri olmayan cihazlar için firma bu aparatları sağlayacaktır.											
+7.34      Sistemde adı geçen fiber hatlar, IRD’ler ve interkom sistemi TRT tarafından sağlanacak olup, sadece kaynak ismi olarak belirtilmektedir. Ancak söz konusu kaynakların sisteme bağlantısı için gerekli diğer teçhizat (dağıtım yükselteçleri gibi) bu sistem kapsamında sağlanacak, video taslak şemada gösterildiği biçimde sistem kablolama ve montajı ile kurulumu yüklenici tarafından yapılacaktır.											
+7.35      SES KURULUM ve MONTAJ											
+Ses Sistem Şemaları											
+7.35.1    Montaj öncesinde sistem şemaları İdare’ye bildirilecektir. İdare sistemde değişiklik talebinde bulunursa, yüklenici bu değişikliği yapacaktır.											
+7.35.2    Montaj sonrasında, tüm şemaların (rak sistemi ve cihaz konsolu yerleşim şemaları, ses sistem ve referans dağılımı şemaları, kontrol, ağ, enerji şemaları dahil) en son hali yazılı ve elektronik ortamda idareye teslim edilecektir.											
+7.35.3    Sistemde kullanılan yazılımların orijinalleri, oluşturulan veritabanları ve programların en son hali yedek olmak üzere elektronik ortamda idareye teslim edilecektir.											
+Cihaz Rak Yerleşimi											
+7.35.4   Sözleşme imzalandıktan sonra tüm cihazların yerleşim planları İdare ile yüklenici arasında yapılacak görüşmeler neticesinde kararlaştırılarak, İdare onayı alındıktan sonra yüklenici tarafından çizilerek uygulanacaktır.											
+Kontrol Odası Konsol											
+7.35.5    EBM Kontrol Odasında teçhizatın yerleştirileceği cihaz konsolu olacaktır. Bu konsola ait çizim ve  taslak  yerleşim  şeması  ekte  verilmiş  olup, konsolun  son  hali, teklif  edilecek  teçhizatın											
+özelliklerine göre, daha sonra TRT tarafından belirlenip, yükleniciye bildirilecektir. Söz konusu konsol için yapım aşamasında İdare’nin onayı alınacaktır.											
+Hoparlör Yerleşimi											
+7.35.6    Ses monitörlerinin açıları ayarlanabilir (yatay-dikey) olacaktır. Monitörlerin yerleştirilmesi için gerekli hoparlör sehpası ve/veya duvara ve monitör rafına asma aparatları sağlanacaktır. Hoparlörler, İdare onayı alındıktan sonra yüklenici tarafından yerleştirilecektir.											
+Kablolama											
+7.35.7    Kablolama için mevcut tava sistemi uygun değilse, gerekirse yüklenici firma tarafından ek tavalar monte edilecektir.											
+7.35.8    Sistemin her yerinde enerji ve veri (video/audio/kontrol/ağ) kabloları farklı tavalar üzerinden taşınacaktır.											
+7.35.9    Mümkün olduğunca; ses ve besleme kabloları birbirine dik olarak kablaj yapılacaktır.											
+7.35.10  Raklar arası kablolar mutlaka zemindeki kablo tavalarından geçirilecek, raklar arasından direkt bağlanmayacaktır.											
+Rakiçi Kablolama											
+7.35.11 Cihazların/pasif elemanların (PP, CTP vs.) kablajı, olası müdahalelerde teçhizatın kablajı sökülmeden müdahale edilebilmesine uygun ses kablo bağlantıları için S payları verilerek yapılacaktır.											
+7.35.12  Montaj süresini kısaltmak amacıyla, teçhizatın mümkün olduğunca, rak içi kablajı yapılmış											
+şekilde teslim edilmesi tercih edilecektir. Gerekli diğer ara bağlantılar montaj mahallinde yapılacaktır. Rak içi kablajın montaj mahali dışında yapılması durumunda dahi İdare kontrol teşkilatı tarafından belirli aşamalarda kontrolü sağlanacaktır.											
+Topraklama											
+7.35.13 Sistem topraklaması uluslararası standartlara uygun yapıda olacaktır. Topraklamadan kaynaklanabilecek tüm sorunlar için gerekli her türlü önlem alınacaktır.											
+7.35.14  Tüm ses ve kontrol kablolarının ekranları bir uçta topraklanacaktır. Topraklamanın aşağıdaki											
+şekilde yapılması önerilmektedir.											
+a.    Jackfield ile cihaz arası bağlantılar Cihazda											
+b.   Cihazlar arası bağlantılar (girişlerde) alıcı ucun sonunda											
+7.35.15  Hiçbir teknik cihaz binanın genel toprağına bağlanmayacaktır. Gürültüden arındırılmış teknik toprak İdare tarafından tüm teknik alanlara dağıtılmış olacaktır.											
+7.35.16  EBM Kontrol Odası konsolu ve cihaz odası raklarında yüklenici teknik toprağı kullanacaktır.											
+7.35.17  Teknik  toprağın  cihazlara  bağlanması  ve  topraklamanın  tüm  cihazlarda  devam  ettirilmesi											
+yüklenicinin sorumluluğundadır.											
+7.35.18  Her  rak  teknik  toprağa  bağlanmadan  önce  komşu  raklardan  elektriksel  olarak  ayrılmış											
+olmalıdır.											
+Numaralama Sistemi											
+7.35.19  Kablo numaratör tipi ve numaralama sistemi İdare’nin numaralama sistemi ile aynı olacaktır.											
+Numaralar, kablo ele alındığında ve konnektör solda kalacak şekilde tutulduğunda zaman, soldan sağa doğru okunur şekilde takılacaktır.											
+7.35.20  Raklara  yerleştirilen  cihazlar  ön  tarafından  bakıldığında  soldan  sağa  ve  yukarıdan  aşağıya doğru numaralandırılacaklardır. Ayrıca her raka da bir numara verilecektir.											
+7.35.21  Raklarda bulunan patch paneller ön tarafından bakıldığında yukarıdan aşağıya doğru başlamak											
+üzere A, B, C gibi harflerle sıralanacak ve her sıra kendi içinde soldan sağa 1, 2, 3, şeklinde numaralandırılacaktır.											
+7.35.22 Çevre    birimleri    bulunduğu    rakın    ve    kasanın    numarasını    belirtecek    şekilde numaralandırılacaktır.											
+7.35.23  Sistem montajında kullanılan tüm kablolar için uygun boyutta, direnç renk kodlu, plastic (PTV)											
+numaratör kullanılacaktır.											
+7.35.24  Alanlar arası kablo numaralarının önüne o alana has bir ek kod getirilecektir.											
+Sonlandırma											
+7.35.25 Cihazlar üzerinde sonlandırılması gereken girişler (kullanılmayan AES girişler vb.) için sonlandırılma işlemi yapılacaktır.											
+Ses Kablo ve Konnektörleri											
+7.35.26  Montajda kullanılacak sayısal ses konnektörleri XLR-3 tipte ise; AES3 standardını karşılayan XCC serisi NEUTRIK veya eşdeğeri ve analog ses konnektörleri ve adaptörleri NEUTRIK veya eşdeğeri olmalıdır.											
+7.35.27  Ses sistem montajı yapılırken, analog/sayısal ses sinyallerin iletimi için AES3 standardındaki ses sinyalinin iletimine uygun tipte 110Ω(unbalanced) twisted pair kablo ve/veya AES3-id standardındaki ses sinyalinin iletimine uygun tipte 75Ω(unbalanced) koaksiyel kablo kullanılacaktır.											
+7.35.28  Tüm AES3 standardındaki ses iletimi için kullanılacak olan ses kabloları ses patch panelleri, ses konnektörleri (XLR-3, D-sub vb.) ile yapılacak sabit montaja uygun olacaktır.											
+7.35.29  Ses kablolarının konnektörlere bağlantılarında izole amaçlı uygun makaronlar kullanılacaktır.											
+Şaseler hiçbir şekilde açıkta bırakılmayacaktır.											
+7.35.30 Sayısal  ses  kabloları,  96kHz’  e  kadar  örnekleme  oranlarındaki  sayısal  ses  sinyalini iletebilecektir.  Yüklenici  montaj  mahalinde  yapacağı  keşif  sonunda,  çekilecek  kablo mesafelerini tespit edecek ve kablolar bu mesafeden 48 kHz (6.144MHz band genişliği) ve											
+96kHz (12.228MHz band genişliği) örnekleme oranındaki sayısal ses sinyalini iletilebilecektir.											
+7.35.31 Tüm ses multicore kablolarının her bir pairi direnç kodlu renklere veya numaralara sahip olmalıdır.											
+7.35.32  Tüm ses kablolarının her bir pair ayrı ayrı ekranlamalı olmalıdır.											
+7.35.33  Tüm ses kablolarının dış ekranlaması olmalıdır ve yeterli esneklikte olacaktır.											
+7.35.34  Ses sisteminde kablo tavalarından ve kanallardan geçecek şekilde kullanılacak olan multicore ses kablolarının, olası yangınlarda insanların en az seviyede zarar görmeleri için  düşük duman yoğunluklu, alev geciktiricili (flame retardant) ve halojen free gibi halojen içermeyen özellikleri olacak biçimde teklif edilecektir ve bahsi geçen özelliklerle ilgili, IEC 60754, IEC 60332, IEC											
+61034 (veya uluslararası eşdeğerleri) standartlarına uygun olacaktır.											
+8.          EĞİTİM											
+8.1        Genel Özellikler											
+8.1.1      Bu iş için, İdarenin personeline eğitim verilecektir. Eğitimin ayrıntıları aşağıda düzenlenmiştir.											
+8.1.2      Eğitim ücreti sözleşme bedeline dahildir.											
+8.1.3     Eğitim için gerekli her türlü doküman, araç, gereç ve tercüman yüklenici tarafından temin edilecektir.											
+8.1.4      Eğitim, aşağıda belirtilen esaslara göre verilecektir.											
+8.1.5     Eğitim tarihlerine ilişkin program yüklenici tarafından en az bir hafta önceden idareye bildirilecektir.											
+8.1.6      İşletme eğitimleri, onaya sunulacak olan kontrol teşkilatı raporundan önce verilecektir.											
+8.1.7      Ölçü-Bakım Eğitimleri, işin teslim süresinden bağımsız olarak, geçici kabulün ardından idare tarafından bildirilecek tarihten itibaren 30 (otuz) takvim günü içerisinde ya da geçici kabulün ardından  İdare  tarafından  henüz  bir  tarih  bildirilmediği  hallerde  İdarenin  onay  vermesi kaydıyla yüklenicinin teklif edeceği tarihlerde gerçekleştirilecektir.											
+8.1.8      Eğitimler gruplara bölünerek yapılabilecektir											
+8.1.9     Cihaz eğitimleri üretici firma tarafından yapılacaktır, türkçe çevirmen yüklenici tarafından sağlanacaktır ve sistemi bilen biri olacaktır.											
+8.1.10    Eğitimler uygulamalı olarak sistemde yapılacaktır.											
+8.1.11    Eğitimlerde  EBM  kullanımında  olan  multiviewer  sistemi,  multiformat  video-audio  analizör cihazı ve video router kontrol panel vb. video teçhizatı da anlatılacaktır.											
+8.2        Video Matriks ve Aksesuarları Eğitimi											
+8.2.1      İstekliler Video Matriks ve Aksesuarları’nın tüm donanım ve yazılımı için 3 gün ölçü-bakım											
+(5 Kurum personeli için) eğitimi teklif edeceklerdir.											
+8.2.2      Eğitim, sistemlerin kuruldukları mekanlarda üretici firma tarafından yapılacaktır.											
+8.2.3      Eğitim sonunda katılımcılar, video matriksin işletmesi ilgili tüm konfigürasyonların yapılması											
+işlemlerine hakim olacaktır.											
+8.2.4      Eğitim sonunda katılımcılar, yazılımlar için gerekli yükleme, silme, modifikasyon işlemlerine, logların  incelenerek  hata  tespiti, ilgili  tüm  donanım  ünitelerinin  periyodik  bakımları, arıza tespit ve giderme konularında gerekli prosedüre hakim olacaktır.											
+8.3        Devamlılık Masası ve Aksesuarları Eğitimi											
+8.3.1      İstekliler Devamlılık Masası ve Aksesuarları’nın tüm donanım ve yazılımı için 3 gün işletme ve 3 gün ölçü-bakım (5 Kurum personeli için) eğitimi teklif edeceklerdir.											
+8.3.2      Eğitim, sistemlerin kuruldukları mahalde, üretici firma tarafından yapılacaktır.											
+8.3.3      İşletme eğitimi sonunda katılımcılar, masanın işletmesi ilgili tüm konfigürasyonların yapılması											
+işlemlerine hâkim olacaktır.											
+8.3.4      Ölçü-Bakım eğitimi sonunda katılımcılar, yazılımlar için gerekli yükleme, silme, modifikasyon işlemlerine,  logların  incelenerek  hata  tespiti,  ilgili  tüm  donanım  ünitelerinin  periyodik bakımları, arıza tespit ve giderme konularında gerekli prosedüre hakim olacaktır.											
+8.3.5      Ölçü-Bakım eğitimi sırasında her bir katılımcıya birer eğitim notu verilecektir.											
+8.4        Multiviewer Sistemi ve Aksesuarları Eğitimi											
+Teklif edilen Multiviewer Sisteminin tamamı için 1 gün işletme ve 2 gün Ölçü Bakım Eğitimi verilecektir.											
+8.5        Genel Sistem İşletme Eğitimi											
+Video ve Ses Sisteminin tamamı için 5 gün Teknik İşletme Eğitimi teklif edilecektir. Bu kapsamda kurulan tüm cihazlar için programlama, setup ayarları, ölçü aletlerinin kullanımı, vb. konularda detaylı eğitim verilecektir.											
+8.6        EBM Sistemi Kullanıcı İşletme Eğitimi											
+EBM cihaz ve kontrol odasında kurulan tüm sistem (Test Cihazları, Commentator Sistemi ve İnterkom Sistemi vb. dahil) için 5 gün Kullanıcı İşletme Eğitimi teklif edilecektir. Bu kapsamda sistem genel olarak anlatılacak,  Test  Cihazlarının,  Commentator  Sistemi  ve  İnterkom  Sistemi  vb.  için  detaylı  kullanım eğitimi verilecektir.											
+8.7        Multiformat Audio Router Sistemi ve Çevre Birimler için İşletme ve Ölçü Bakım Eğitimi											
+Multiformat Audio Router Sistemi ve Çevre Birimler için 5 gün İşletme ve Ölçü Bakım Eğitimi teklif edilecektir. Bu kapsamda audio router cihazı ile kontrol panellerinin ve uzaktan kontrol yazılımının detaylı kullanım eğitimi verilecektir ve yazılımlar için gerekli yükleme, silme, konfigürasyon yapma işlemleri, logların incelenerek hata tespiti, donanımın periyodik bakımları, arıza tespit ve giderme konularında gerekli ölçü-bakım bilgileri aktarılacaktır.											
+8.8        Voice-over ve Audio Processor Üniteleri için İşletme Eğitimi											
+Voice-over ve Audio Processor Üniteleri için 5 gün İşletme Eğitimi teklif edilecektir. Bu kapsamda cihazın, kontrol  panelleri  ve uzaktan  kontrol  arayüzü ile  birlikte  kullanımı  hakkında  detaylı  eğitim											
+verilecektir.											
